@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flex-config>
+  <target-player>18.0</target-player>
+  <benchmark>false</benchmark>
+  <static-link-runtime-shared-libraries>true</static-link-runtime-shared-libraries>
+  <compiler>
+    <define append="true">
+      <name>CONFIG::debug</name>
+      <value>true</value>
+    </define>
+    <define append="true">
+      <name>CONFIG::release</name>
+      <value>false</value>
+    </define>
+    <define append="true">
+      <name>CONFIG::timeStamp</name>
+      <value>'08.08.2020'</value>
+    </define>
+    <define append="true">
+      <name>CONFIG::air</name>
+      <value>false</value>
+    </define>
+    <define append="true">
+      <name>CONFIG::mobile</name>
+      <value>false</value>
+    </define>
+    <define append="true">
+      <name>CONFIG::desktop</name>
+      <value>false</value>
+    </define>
+    <verbose-stacktraces>true</verbose-stacktraces>
+    <source-path append="true">
+      <path-element>\src</path-element>
+      <path-element>\FlashDevelop\Library\AS3\classes</path-element>
+    </source-path>
+    <library-path append="true">
+      <path-element>\lib\TankGUI4.swc</path-element>
+    </library-path>
+  </compiler>
+  <file-specs>
+    <path-element>\src\Tanks.as</path-element>
+  </file-specs>
+  <default-background-color>#2B2B1A</default-background-color>
+  <default-frame-rate>255</default-frame-rate>
+  <default-size>
+    <width>800</width>
+    <height>600</height>
+  </default-size>
+</flex-config>
