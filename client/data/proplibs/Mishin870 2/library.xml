@@ -1,0 +1,9 @@
+<library name="Mishin870">
+	<prop-group name="Grass Tiles">
+		<prop name="Grass">
+				<mesh  file="grass.3DS">
+					<texture name="Grass" diffuse-map="grass.jpg" />
+				</mesh>
+		</prop>
+	</prop-group>
+</library>

@@ -1,0 +1,137 @@
+<library name="Complex Build v1">
+	<prop-group name="Bottom">
+		<prop name="rise1">
+				<mesh  file="hs_rise1.3ds"/>	
+		</prop>
+		<prop name="rise2">
+				<mesh  file="hs_rise2.3ds"/>	
+		</prop>
+		<prop name="rise3">
+				<mesh  file="hs_rise3.3ds"/>	
+		</prop>
+		<prop name="rise4">
+				<mesh  file="hs_rise4.3ds"/>	
+		</prop>
+		<prop name="rise5">
+				<mesh  file="hs_rise5.3ds"/>	
+		</prop>
+		<prop name="brid2">
+				<mesh  file="hs_brid2.3ds"/>	
+		</prop>
+		<prop name="brid3">
+				<mesh  file="hs_brid3.3ds"/>	
+		</prop>
+		<prop name="brid1">
+				<mesh  file="hs_brid1.3ds"/>	
+		</prop>
+	</prop-group>
+
+	<prop-group name="Walls">
+		<prop name="Hs_part09">
+				<mesh  file="hs_part9.3ds"/>	
+		</prop>
+		<prop name="Hs_part20">
+				<mesh  file="hs_par20.3ds">	
+				<texture name="Hspart20 1" diffuse-map="hs_wl5.jpg" />
+				<texture name="Hspart20 2" diffuse-map="hs_wl51.jpg" />	
+				<texture name="Hspart20 3" diffuse-map="hs_wl52.jpg" />				
+				<texture name="Hspart20 4" diffuse-map="hs_wl53.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Hs_part08">
+				<mesh  file="hs_part8.3ds"/>	
+		</prop>
+		<prop name="Hs_part07">
+				<mesh  file="hs_part7.3ds"/>	
+		</prop>
+		<prop name="Hs_part06">
+				<mesh  file="hs_part6.3ds"/>	
+		</prop>
+		<prop name="Hs_part05">
+				<mesh  file="hs_part5.3ds">
+				<texture name="Hspart5 1" diffuse-map="hs_wl5.jpg" />
+				<texture name="Hspart5 2" diffuse-map="hs_wl51.jpg" />	
+				<texture name="Hspart5 3" diffuse-map="hs_wl52.jpg" />				
+				<texture name="Hspart5 4" diffuse-map="hs_wl53.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Hs_part04">
+				<mesh  file="hs_part4.3ds"/>	
+		</prop>
+		<prop name="Hs_part03">
+				<mesh  file="hs_part3.3ds"/>	
+		</prop>
+		<prop name="Hs_part02">
+				<mesh  file="hs_part2.3ds"/>	
+		</prop>
+		<prop name="Hs_part012">
+				<mesh  file="hs_par12.3ds"/>	
+		</prop>
+		<prop name="Hs_corn1">
+				<mesh  file="hs_corn1.3ds"/>	
+		</prop>
+		<prop name="Hs_corn2">
+				<mesh  file="hs_corn2.3ds"/>	
+		</prop>
+		<prop name="Hs_part010">
+				<mesh  file="hs_par10.3ds"/>	
+		</prop>
+		<prop name="Hs_part01">
+				<mesh  file="hs_part1.3ds"/>	
+		</prop>
+		<prop name="Tube01">
+				<mesh  file="hs_tube1.3ds"/>	
+		</prop>
+		<prop name="Tube02">
+				<mesh  file="hs_tube2.3ds"/>	
+		</prop>
+		<prop name="Tube3">
+				<mesh  file="h_tube3.3ds"/>	
+		</prop>
+		<prop name="big1">
+				<mesh  file="partbig1.3ds"/>	
+		</prop>
+		<prop name="big2">
+				<mesh  file="partbig2.3ds"/>	
+		</prop>
+	</prop-group>
+
+	<prop-group name="Roof">
+
+		<prop name="broken roof">
+				<mesh  file="brk_roof.3ds">
+				<texture name="Brk_roof 1" diffuse-map="brk_roof.jpg" />
+				<texture name="Brk_roof 2" diffuse-map="bk_roof1.jpg" />
+				</mesh>	
+		</prop>
+		<prop name="broken roof01">
+				<mesh  file="bk_roof1.3ds">
+				<texture name="Brk_roof1 1" diffuse-map="brk_roof.jpg" />
+				<texture name="Brk_roof1 2" diffuse-map="bk_roof1.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="broken roof02">
+				<mesh  file="bk_roof2.3ds">
+				<texture name="Brk_roof2 1" diffuse-map="brk_roof.jpg" />
+				<texture name="Brk_roof2 2" diffuse-map="bk_roof1.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="roof part">
+				<mesh  file="hs_roof.3ds"/>	
+		</prop>
+		<prop name="roof part1">
+				<mesh  file="hs_roof1.3ds"/>	
+		</prop>
+		<prop name="roof part2">
+				<mesh  file="hs_roof2.3ds"/>	
+		</prop>
+		<prop name="roof cen">
+				<mesh  file="h_roofc.3ds"/>	
+		</prop>
+		<prop name="roof2x2">
+				<mesh  file="roofc2x2.3ds"/>	
+		</prop>
+	</prop-group>
+
+
+</library>

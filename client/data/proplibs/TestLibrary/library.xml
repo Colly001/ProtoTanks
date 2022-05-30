@@ -1,0 +1,55 @@
+<library name="Test">
+	<prop-group name="Test Props">
+		<prop name="Test 1">
+			<mesh file="test_prop.3ds"/>
+		</prop>
+		<prop name="New Map">
+			<mesh file="map.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Cave">
+		<prop name="Cave Entrance">
+			<mesh file="cave_1.3ds"/>
+		</prop>
+		<prop name="Cave 4-way">
+			<mesh file="cave_2.3ds"/>
+		</prop>
+		<prop name="Cave 3-way">
+			<mesh file="cave_3.3ds"/>
+		</prop>
+		<prop name="Cave 2-way">
+			<mesh file="cave_4.3ds"/>
+		</prop>
+		<prop name="Cave 1-way">
+			<mesh file="cave_5.3ds"/>
+		</prop>
+		<prop name="Cave Rise">
+			<mesh file="cave_rise.3ds"/>
+		</prop>
+		<prop name="Cave Wall 1">
+			<mesh file="cave_w1.3ds"/>
+		</prop>
+		<prop name="Cave Wall 2">
+			<mesh file="cave_w2.3ds"/>
+		</prop>
+		<prop name="Cave Narrow Wall 1">
+			<mesh file="cave_wn1.3ds"/>
+		</prop>
+		<prop name="Cave Narrow Wall 2">
+			<mesh file="cave_wn2.3ds"/>
+		</prop>
+		<prop name="Cave Corner In Bottom">
+			<mesh file="cave_cor_in_bot.3ds"/>
+		</prop>
+		<prop name="Cave Corner In Top">
+			<mesh file="cave_cor_in_Top.3ds"/>
+		</prop>
+		<prop name="Cave Corner Out Bottom">
+			<mesh file="cave_cor_out_bot.3ds"/>
+		</prop>
+		<prop name="Cave Corner OUt Top">
+			<mesh file="cave_cor_out_Top.3ds"/>
+		</prop>
+		
+	</prop-group>
+</library>

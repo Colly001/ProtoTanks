@@ -1,0 +1,129 @@
+<library name="Builds">
+	<prop-group name="Walls">
+		<prop name="Wall 3way">
+				<mesh  file="wall_3w.3DS">
+					<texture name="wall 3w" diffuse-map="wall_3w.jpg" />
+					<texture name="wall 3w grass" diffuse-map="wall_3w_g.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Wall Corner">
+				<mesh  file="wall_cr.3DS">
+					<texture name="wall cr" diffuse-map="wall_cr.jpg" />
+					<texture name="wall cr grass" diffuse-map="wall_cr_g.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Wall Straight">
+				<mesh  file="wall_st.3DS">
+					<texture name="wall st" diffuse-map="wall_st.jpg" />
+					<texture name="wall st grass" diffuse-map="wall_st_g.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Wall End 1">
+				<mesh  file="wall_e1.3DS">
+					<texture name="wall e1" diffuse-map="wall_e1.jpg" />
+					<texture name="wall e1 grass" diffuse-map="wall_e1_g.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Wall End 2">
+				<mesh  file="wall_e2.3DS">
+					<texture name="wall e2" diffuse-map="wall_e2.jpg" />
+					<texture name="wall e2 grass" diffuse-map="wall_e2_g.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Wall End 3">
+				<mesh  file="wall_e3.3DS">
+					<texture name="wall e3" diffuse-map="wall_e3.jpg" />
+					<texture name="wall e3 grass" diffuse-map="wall_e3_g.jpg" />
+				</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="New Builds">
+		<prop name="NuBu 1">
+			<mesh file="nubu_1.3DS"/>
+		</prop>
+		<prop name="NuBu 2">
+			<mesh file="nubu_2.3DS"/>
+		</prop>
+		<prop name="NuBu 3">
+			<mesh file="nubu_3.3DS"/>
+		</prop>
+		<prop name="NuBu 4">
+			<mesh file="nubu_4.3DS"/>
+		</prop>
+		<prop name="NuBu 5">
+			<mesh file="nubu_5.3DS"/>
+		</prop>
+		<prop name="NuBu 6">
+			<mesh file="nubu_6.3DS"/>
+		</prop>
+		<prop name="NuBu 7">
+			<mesh file="nubu_7.3DS"/>
+		</prop>
+		<prop name="NuBu 8">
+			<mesh file="nubu_8.3DS"/>
+		</prop>
+		<prop name="NuBu 9">
+			<mesh file="nubu_9.3DS"/>
+		</prop>
+		<prop name="NuBu 10">
+			<mesh file="nubu_10.3DS"/>
+		</prop>
+		<prop name="NuBu 11">
+			<mesh file="nubu_11.3DS"/>
+		</prop>
+		<prop name="NuBu 12">
+			<mesh file="nubu_12.3DS"/>
+		</prop>
+		<prop name="NuBu 13">
+			<mesh file="nubu_13.3DS"/>
+		</prop>
+		<prop name="NuBu 14">
+			<mesh file="nubu_14.3DS"/>
+		</prop>
+		<prop name="Fabr Tower">
+			<mesh file="fab_tow.3DS"/>
+		</prop>
+		<prop name="Broken Fabr Tower">
+			<mesh file="fab_tow2.3DS"/>
+		</prop>
+		<prop name="Billboard">
+			<mesh file="bilboard.3DS">
+					<texture name="default" diffuse-map="bilboard.jpg" />
+					<texture name="promo 1" diffuse-map="shit_1.jpg" />
+					<texture name="promo 2" diffuse-map="shit_2.jpg" />
+					<texture name="promo 3" diffuse-map="shit_3.jpg" />
+
+					<texture-ext-area x="5" y="7" width="150" height="70"/>
+					<texture-ext-area x="5" y="85" width="150" height="70"/>
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Village Builds">
+
+		<prop name="Village House 1">
+			<mesh file="vilhou_1.3DS">
+					<texture name="OnDirt" diffuse-map="vilhou1.jpg" />
+					<texture name="OnGrass" diffuse-map="vilhou1_2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="BVillage House 2">
+			<mesh file="vilhou_2.3DS">
+					<texture name="OnDirt" diffuse-map="vilhou2.jpg" />
+					<texture name="OnGrass" diffuse-map="vilhou2_2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Village House 3">
+			<mesh file="vilhou_3.3DS">
+					<texture name="OnDirt" diffuse-map="vilhou3.jpg" />
+					<texture name="OnGrass" diffuse-map="vilhou3_2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Village House 4">
+			<mesh file="vilhou_4.3DS">
+					<texture name="OnDirt" diffuse-map="vilhou4.jpg" />
+					<texture name="OnGrass" diffuse-map="vilhou4_2.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+
+</library>

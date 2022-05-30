@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Bush Winter">
+    <prop-group name="default">
+        <prop name="Tree 1">
+            <sprite file="wood1.png" origin-y="0.99" scale="2.5"/>
+        </prop>
+        <prop name="Bush 1">
+            <sprite file="bush1.png" origin-y="0.99" scale="2.5"/>
+        </prop>
+        <prop name="Bush 2">
+            <sprite file="bush2.png" origin-y="0.99" scale="2.5"/>
+        </prop>
+    </prop-group>
+</library>

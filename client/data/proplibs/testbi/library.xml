@@ -1,0 +1,9 @@
+<library name="dino">
+	<prop-group name="dinos">
+		<prop name="dino">
+				<mesh  file="grass.3DS">
+					<texture name="dino" diffuse-map="grass.jpg" />
+				</mesh>
+		</prop>
+	</prop-group>
+</library>

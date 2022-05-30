@@ -1,0 +1,253 @@
+<library name="Terrain">
+	<prop-group name="Tiles">
+		<prop name="Tile 1x1">
+				<mesh  file="tile_01.3ds">
+					<texture name="ground1" diffuse-map="ground_a1.jpg" />
+					<texture name="ground2" diffuse-map="ground_a2.jpg" />
+					<texture name="ground3" diffuse-map="ground_a3.jpg" />
+					<texture name="ground4" diffuse-map="ground_a4.jpg" />
+					<texture name="ground5" diffuse-map="ground_b1.jpg" />
+					<texture name="ground6" diffuse-map="ground_b2.jpg" />
+					<texture name="ground7" diffuse-map="ground_b3.jpg" />
+					<texture name="ground8" diffuse-map="ground_b4.jpg" />
+					<texture name="asph1" diffuse-map="asp_1.jpg" />
+					<texture name="asph2" diffuse-map="asphalt_2.jpg" />
+					<texture name="asph3" diffuse-map="asphalt_3.jpg" />
+					<texture name="asph4" diffuse-map="asphalt_4.jpg" />
+					<texture name="asph5" diffuse-map="asphalt_5.jpg" />
+					<texture name="asph6" diffuse-map="asphalt_6.jpg" />
+					<texture name="asph7" diffuse-map="asphalt_7.jpg" />
+					<texture name="asph8" diffuse-map="asphalt_8.jpg" />
+					<texture name="asph9" diffuse-map="asphalt_9.jpg" />
+					<texture name="asph11" diffuse-map="asphalt_11.jpg" />
+					<texture name="asph12" diffuse-map="asphalt_12.jpg" />
+					<texture name="asph13" diffuse-map="asp_14.jpg" />
+					<texture name="asph14" diffuse-map="asp_sing.jpg" />
+					<texture name="asph15" diffuse-map="hatch.jpg" />
+					<texture name="concrete1" diffuse-map="concrete_1.jpg" />
+					<texture name="concrete2" diffuse-map="concrete_2.jpg" />
+					<texture name="concrete3" diffuse-map="concrete_3.jpg" />
+					<texture name="wconcrete1" diffuse-map="wetconcrete_1.jpg" />
+					<texture name="wconcrete2" diffuse-map="wetconcrete_2.jpg" />
+					<texture name="wconcrete3" diffuse-map="wetconcrete_3.jpg" />
+					<texture name="wconcrete4" diffuse-map="wetconcrete_4.jpg" />
+					<texture name="wconcrete5" diffuse-map="wetconcrete_5.jpg" />
+					<texture name="wconcrete6" diffuse-map="wetconcrete_8.jpg" />
+					<texture name="wconcrete6" diffuse-map="wetconcrete_9.jpg" />
+					<texture name="steel1" diffuse-map="beton_1.jpg" />
+					<texture name="steel2" diffuse-map="beton_2.jpg" />
+					<texture name="steel3" diffuse-map="beton_3.jpg" />
+					<texture name="steel4" diffuse-map="beton_4.jpg" />
+					<texture name="steel5" diffuse-map="beton_5.jpg" />
+					<texture name="steel6" diffuse-map="beton_6.jpg" />
+					<texture name="rail1" diffuse-map="rail_1.jpg" />
+					<texture name="rail2" diffuse-map="rail_2.jpg" />
+					<texture name="road1" diffuse-map="road_1.jpg" />
+					<texture name="road2" diffuse-map="road_2.jpg" />
+					<texture name="road3" diffuse-map="road_3.jpg" />
+					<texture name="road4" diffuse-map="road_4.jpg" />
+					<texture name="road5" diffuse-map="road_5.jpg" />
+					<texture name="road6" diffuse-map="road_6.jpg" />
+					<texture name="road8" diffuse-map="road_8.jpg" />
+					<texture name="road9" diffuse-map="road_9.jpg" />
+					<texture name="tar" diffuse-map="tar.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Tile2side">
+				<mesh  file="tile2sd.3ds">
+					<texture name="Tile2side var1" diffuse-map="tile2sd.jpg" />
+					<texture name="Tile2side var2" diffuse-map="tile2sd_v2.jpg" />
+					<texture name="Tile2side var3" diffuse-map="tile2sd_v3.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Tile 2x1">
+				<mesh  file="tile2_1.3ds">
+					<texture name="asph" diffuse-map="asphalt_13.jpg" />
+					<texture name="wconc" diffuse-map="wetconcrete_6.jpg" />
+				</mesh>
+				
+		</prop>
+		<prop name="Tile 2x2">
+				<mesh  file="tile2_2.3ds">
+					<texture name="asph" diffuse-map="concrete_4.jpg" />
+					<texture name="concr" diffuse-map="wetconcrete_7.jpg" />
+					<texture name="asp_turn" diffuse-map="asphalt_turn.jpg" />
+					<texture name="asp2x2" diffuse-map="asp2x2.jpg" />
+					<texture name="con2x2" diffuse-map="conc2x2.jpg" />
+					<texture name="wcon2x2" diffuse-map="wcon2x2.jpg" />
+					<texture name="ground2x2" diffuse-map="ground2x2.jpg" />
+					<texture name="asph10" diffuse-map="asphalt_10.jpg" />
+					<texture name="tar" diffuse-map="tar2x2.jpg" />
+				</mesh>
+				
+		</prop>
+	</prop-group>
+	<prop-group name="Rocks">
+		<prop name="Big Rck">
+				<mesh  file="big_rock.3ds">
+					<texture name="Bg rck" 	 diffuse-map="bg_rock.jpg" />
+					<texture name="Bg rck 1" diffuse-map="bg_rock1.jpg" />
+					<texture name="Bg rck 2" diffuse-map="bg_rock2.jpg" />
+				</mesh>	
+		</prop>
+		<prop name="up rock">
+				<mesh  file="up_rock.3ds">
+					<texture name="up rck" 	 diffuse-map="bg_rock.jpg" />
+					<texture name="up rck 1" diffuse-map="bg_rock1.jpg" />
+					<texture name="up rck 2" diffuse-map="bg_rock2.jpg" />
+				</mesh>
+		</prop>
+		<prop name="up big">
+				<mesh  file="up_Brock.3ds">
+					<texture name="ch2" diffuse-map="bg_rock.jpg" />
+					<texture name="ch2 1" diffuse-map="bg_rock1.jpg" />
+					<texture name="ch2 2" diffuse-map="bg_rock2.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="uprck1">
+				<mesh  file="up_rock1.3ds">	
+					<texture name="1" diffuse-map="up_rock1.jpg" />
+					<texture name="2" diffuse-map="up_rock2.jpg" />
+				</mesh>
+		</prop>
+		<prop name="uprck2">
+				<mesh  file="up_rock2.3ds"/>	
+		</prop>
+		<prop name="corn_B">
+				<mesh  file="corn_B.3ds">
+				<texture name="1" diffuse-map="corn_b.jpg" />
+				<texture name="2" diffuse-map="corn_b1.jpg" />
+				</mesh>
+		</prop>
+		<prop name="small1">
+				<mesh  file="sm_rock1.3ds">
+					<texture name="sm1 rck 1" diffuse-map="sm_rck1.jpg" />
+					<texture name="sm1 rck 2" diffuse-map="sm_rck2.jpg" />
+					<texture name="sm1 rck 3" diffuse-map="sm_rck3.jpg" />
+				</mesh>	
+			</prop>
+		<prop name="small2">
+				<mesh  file="sm_rock2.3ds">
+					<texture name="sm2 rck 1" diffuse-map="sm_rck1.jpg" />
+					<texture name="sm2 rck 2" diffuse-map="sm_rck2.jpg" />
+					<texture name="sm2 rck 3" diffuse-map="sm_rck3.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="corner1">
+				<mesh  file="corn1.3ds">
+					<texture name="cor1" diffuse-map="corn.jpg" />
+					<texture name="cor1 1" diffuse-map="corn1.jpg" />
+					<texture name="cor1 2" diffuse-map="corn2.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="corner2">
+				<mesh  file="corn2.3ds">
+					<texture name="cor2" diffuse-map="corn.jpg" />
+					<texture name="cor2 1" diffuse-map="corn1.jpg" />
+					<texture name="cor2 2" diffuse-map="corn2.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="corner3">
+				<mesh  file="corn3.3ds">
+					<texture name="cor3" diffuse-map="corn.jpg" />
+					<texture name="cor3 1" diffuse-map="corn1.jpg" />
+					<texture name="cor3 2" diffuse-map="corn2.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="corner4">
+				<mesh  file="corn4.3ds">
+					<texture name="cor4" diffuse-map="corn.jpg" />
+					<texture name="cor4 1" diffuse-map="corn1.jpg" />
+					<texture name="cor4 2" diffuse-map="corn2.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="change1">
+				<mesh  file="change01.3ds">
+					<texture name="ch1" diffuse-map="bg_rock.jpg" />
+					<texture name="ch1 1" diffuse-map="bg_rock1.jpg" />
+					<texture name="ch1 2" diffuse-map="bg_rock2.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="change2">
+				<mesh  file="change02.3ds">
+					<texture name="ch1" diffuse-map="bg_rock.jpg" />
+					<texture name="ch2 1" diffuse-map="bg_rock1.jpg" />
+					<texture name="ch2 2" diffuse-map="bg_rock2.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="rise g1">
+				<mesh  file="rise_g1.3ds">
+				<texture name="rg1" diffuse-map="rise_g1.jpg" />
+				<texture name="rg2" diffuse-map="rise_g2.jpg" />
+				</mesh>		
+		</prop>
+		<prop name="rise g2">
+				<mesh  file="rise_g2.3ds">
+				<texture name="rg1" diffuse-map="rise_g1.jpg" />
+				<texture name="rg2" diffuse-map="rise_g2.jpg" />
+				</mesh>	
+		</prop>
+		<prop name="rise g3">
+				<mesh  file="rise_g3.3ds">
+				<texture name="rg1" diffuse-map="rise_g1.jpg" />
+				<texture name="rg2" diffuse-map="rise_g2.jpg" />
+				</mesh>	
+		</prop>
+		<prop name="rise g4">
+				<mesh  file="rise_g4.3ds">
+				<texture name="rg1" diffuse-map="rise_g1.jpg" />
+				<texture name="rg2" diffuse-map="rise_g2.jpg" />
+				</mesh>	
+		</prop>
+		<prop name="rise r5">
+				<mesh  file="rise_r5.3ds">
+				<texture name="rg1" diffuse-map="rise_r1.jpg" />
+				<texture name="rg2" diffuse-map="rise_r2.jpg" />
+				<texture name="rr3" diffuse-map="rise_r3.jpg" />
+				</mesh>	
+		</prop>
+		<prop name="rise g6">
+				<mesh  file="rise_r6.3ds">
+				<texture name="rr1" diffuse-map="rise_r1.jpg" />
+				<texture name="rr2" diffuse-map="rise_r2.jpg" />
+				<texture name="rr3" diffuse-map="rise_r3.jpg" />
+				</mesh>	
+		</prop>
+		<prop name="rise r1">
+				<mesh  file="rise_r1.3ds">
+				<texture name="ru1" diffuse-map="rise_u1.jpg" />
+				<texture name="ru2" diffuse-map="rise_u2.jpg" />
+				<texture name="ru3" diffuse-map="rise_u3.jpg" />
+				</mesh>	
+		</prop>
+	</prop-group>
+	<prop-group name="ground">
+		<prop name="t_rise21">
+				<mesh  file="t_rise21.3ds">
+					<texture name="g1" diffuse-map="asp33.jpg" />
+					<texture name="g2" diffuse-map="con33.jpg" />
+					<texture name="g3" diffuse-map="gro33.jpg" />
+					<texture name="g4" diffuse-map="steel33.jpg" />
+					</mesh>	
+		</prop>
+		<prop name="t_rise33">
+				<mesh  file="t_rise33.3ds">
+					<texture name="g1" diffuse-map="asp33.jpg" />
+					<texture name="g2" diffuse-map="con33.jpg" />
+					<texture name="g3" diffuse-map="gro33.jpg" />
+					<texture name="g4" diffuse-map="steel33.jpg" />
+					</mesh>	
+		</prop>
+		</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Tree 1">
+			<sprite file="wood1.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="Bush 1">
+			<sprite file="bush1.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="Bush 2">
+			<sprite file="bush2.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+	</prop-group>
+</library>

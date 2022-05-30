@@ -1,0 +1,92 @@
+<library name="Buildings v1">
+	<prop-group name="Unbroken houses">
+		<prop name="SmHouse2">
+				<mesh  file="smHouse2.3ds"/>	
+		</prop>
+		<prop name="SmHouse3">
+				<mesh  file="smHouse3.3ds"/>
+		</prop>
+		<prop name="SmHouse4">
+				<mesh  file="smHouse4.3ds"/>		
+		</prop>
+		<prop name="SmHouse5">
+				<mesh  file="smHouse5.3ds"/>		
+		</prop>
+		<prop name="Gas Station">
+				<mesh  file="gasoline.3ds"/>
+		</prop>
+		<prop name="Container">
+				<mesh  file="contain.3ds">
+					<texture name="Container 1" diffuse-map="contain.jpg" />
+					<texture name="Container 2" diffuse-map="contain2.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Watch Tower">
+				<mesh  file="watch_to.3ds"/>
+		</prop> 
+		<prop name="Steel tower">
+				<mesh  file="tower.3ds"/>
+		</prop>
+		<prop name="Hangar 1">
+				<mesh  file="hang_1.3ds"/>
+		</prop>
+		<prop name="Hangar 2">
+				<mesh  file="hang_2.3ds"/>
+		</prop>
+		<prop name="Hangar 3">
+				<mesh  file="hang_3.3ds"/>
+		</prop>
+	</prop-group>
+
+	<prop-group name="Old Builds">
+		<prop name="NuBu 1">
+			<mesh file="nubu_1.3DS"/>
+		</prop>
+		<prop name="NuBu 2">
+			<mesh file="nubu_2.3DS"/>
+		</prop>
+		<prop name="NuBu 3">
+			<mesh file="nubu_3.3DS"/>
+		</prop>
+
+		<prop name="NuBu 5">
+			<mesh file="nubu_5.3DS"/>
+		</prop>
+		<prop name="NuBu 6">
+			<mesh file="nubu_6.3DS"/>
+		</prop>
+
+		<prop name="NuBu 8">
+			<mesh file="nubu_8.3DS"/>
+		</prop>
+		<prop name="NuBu 9">
+			<mesh file="nubu_9.3DS"/>
+		</prop>
+		<prop name="NuBu 10">
+			<mesh file="nubu_10.3DS"/>
+		</prop>
+		<prop name="NuBu 12">
+			<mesh file="nubu_12.3DS"/>
+		</prop>
+
+		<prop name="Fabr Tower">
+			<mesh file="fab_tow.3DS"/>
+		</prop>
+
+		<prop name="Village House 1">
+				<mesh  file="vilhou_1.3ds"/>
+		</prop>
+
+		<prop name="Village House 2">
+				<mesh  file="vilhou_2.3ds"/>
+		</prop>
+
+		<prop name="Village House 3">
+				<mesh  file="vilhou_3.3ds"/>
+		</prop>
+
+		<prop name="Village House 4">
+				<mesh  file="vilhou_4.3ds"/>
+		</prop>
+	</prop-group>
+</library>

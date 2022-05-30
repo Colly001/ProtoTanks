@@ -1,0 +1,33 @@
+<library name="Functional">
+	<prop-group name="Spawn Points">
+		<prop name="dm">
+			<mesh file="deathmatch_SP.3DS"/>
+		</prop>
+		<prop name="red">
+			<mesh file="team_red_SP.3DS"/>
+		</prop>
+		<prop name="blue">
+			<mesh file="team_blue_SP.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Bonus Regions">
+		<prop name="bonus1">
+			<mesh file="bonus_1.3DS"/>
+		</prop>
+		<prop name="bonus2">
+			<mesh file="bonus_2.3DS"/>
+		</prop>
+		<prop name="bonus3">
+			<mesh file="bonus_3.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Flags">
+		<prop name="red_flag">
+			<mesh file="red_flag.3DS"/>
+		</prop>
+		<prop name="blue_flag">
+			<mesh file="blue_flag.3DS"/>
+		</prop>
+	</prop-group>
+
+</library>

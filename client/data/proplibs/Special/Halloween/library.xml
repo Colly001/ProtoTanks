@@ -1,0 +1,83 @@
+<library name="Halloween">
+	<prop-group name="Halloween tool">
+		<prop name="Pumpkin">
+			<mesh file="pumpkin.3ds">
+				<texture name="pumpkin" diffuse-map="pumpkin.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Graves1">
+			<mesh file="gravest1.3ds">
+				<texture name="gravest1" diffuse-map="gravest.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Graves2">
+			<mesh file="gravest2.3ds">
+				<texture name="gravest2" diffuse-map="gravest.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Graves3">
+			<mesh file="gravest3.3ds">
+				<texture name="gravest3" diffuse-map="gravest.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Trees">
+		<prop name="Tree1">
+				<mesh  file="tree01.3ds"/>	
+		</prop>
+		<prop name="Tree2">
+				<mesh  file="tree02.3ds"/>	
+		</prop>
+	</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Ghost">
+			<sprite file="ghost.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="TreeS1">
+			<sprite file="trees1.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="TreeS2">
+			<sprite file="trees2.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="TreeS3">
+			<sprite file="trees3.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="TreeS4">
+			<sprite file="trees4.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Land">
+		<prop name="Shov 1x1">
+			<mesh file="tile_01.3DS">
+				<texture name="Dark Gravel" diffuse-map="dark_gravel.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Grass 3x2">
+			<mesh  file="tile3_2.3DS">
+					<texture name="Grass 3x2 var1" diffuse-map="grass3_2_1.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Old Builds">
+		<prop name="Village House 1">
+			<mesh file="vilhou_1.3ds">
+				<texture name="vilhou_1" diffuse-map="vilhou1.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Village House 2">
+			<mesh file="vilhou_2.3ds">
+				<texture name="vilhou_2" diffuse-map="vilhou2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Village House 3">
+			<mesh file="vilhou_3.3ds">
+				<texture name="vilhou_3" diffuse-map="vilhou3.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Village House 4">
+			<mesh file="vilhou_4.3ds">
+				<texture name="vilhou_4" diffuse-map="vilhou4.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+</library>

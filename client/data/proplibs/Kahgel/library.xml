@@ -1,0 +1,157 @@
+<library name="kahgel">
+	<prop-group name="clay">
+		<prop name="outWd">
+			<mesh file="outWd.3ds">
+				<texture name="NorthEast" diffuse-map="outWdNE.jpg" />	
+				<texture name="NorthWest" diffuse-map="outWdNW.jpg" />
+				<texture name="SouthEase" diffuse-map="outWdSE.jpg" />
+				<texture name="SouthWest" diffuse-map="outWdSW.jpg" />
+			</mesh>
+		</prop>
+		<prop name="out">
+			<mesh file="out.3ds">
+					<texture name="NorthEast" diffuse-map="cornerNE.jpg" />	
+					<texture name="NorthWest" diffuse-map="cornerNW.jpg" />
+					<texture name="SouthEast" diffuse-map="cornerSE.jpg" />	
+					<texture name="SouthWest" diffuse-map="cornerSW.jpg" />
+				</mesh>
+		</prop>
+		<prop name="in">
+			<mesh file="in.3ds">
+					<texture name="NorthEast" diffuse-map="cornerNE.jpg" />	
+					<texture name="NorthWest" diffuse-map="cornerNW.jpg" />
+					<texture name="SouthEast" diffuse-map="cornerSE.jpg" />	
+					<texture name="SouthWest" diffuse-map="cornerSW.jpg" />
+				</mesh>
+		</prop>
+		<prop name="corner">
+			<mesh file="corner.3ds">
+					<texture name="NorthEast" diffuse-map="cornerNE.jpg" />	
+					<texture name="NorthWest" diffuse-map="cornerNW.jpg" />
+					<texture name="SouthEast" diffuse-map="cornerSE.jpg" />	
+					<texture name="SouthWest" diffuse-map="cornerSW.jpg" />						
+			</mesh>
+		</prop>
+		<prop name="door">
+			<mesh file="door.3ds">
+				<texture name="North" diffuse-map="doorN.jpg" />
+					<texture name="South" diffuse-map="doorS.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="window">
+			<mesh file="window.3ds">
+					<texture name="North" diffuse-map="windowN.jpg" />
+					<texture name="West" diffuse-map="windowW.jpg" />
+					<texture name="South" diffuse-map="windowS.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="wall">
+			<mesh file="wall.3ds">
+				<texture name="South" diffuse-map="wallS.jpg" />
+				<texture name="South1" diffuse-map="wallS_1.jpg" />
+				<texture name="South2" diffuse-map="wallS_2.jpg" />
+				<texture name="Farsh" diffuse-map="wallS_farsh.jpg" />
+				<texture name="Farsh 2" diffuse-map="wallS_farsh2.jpg" />
+				<texture name="Farsh 3" diffuse-map="wallS_farsh3.jpg" />
+				<texture name="Farsh 4" diffuse-map="wallS_farsh4.jpg" />
+				<texture name="North" diffuse-map="wallN.jpg" />
+				<texture name="North1" diffuse-map="wallN_1.jpg" />
+				<texture name="North2" diffuse-map="wallN_2.jpg" />			
+			</mesh>
+		</prop>
+		<prop name="wood">
+			<mesh file="wood.3ds">
+					<texture name="North" diffuse-map="woodN.jpg" />
+					<texture name="West" diffuse-map="woodW.jpg" />	
+					<texture name="South" diffuse-map="woodS.jpg" />
+					<texture name="East" diffuse-map="woodE.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="broken">
+			<mesh file="broken.3ds">
+					<texture name="North" diffuse-map="brokenN.jpg" />
+					<texture name="West" diffuse-map="brokenW.jpg" />
+					<texture name="South" diffuse-map="brokenS.jpg" />
+					<texture name="East" diffuse-map="brokenE.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="end">
+			<mesh file="end.3ds">
+					<texture name="North" diffuse-map="endN.jpg" />
+					<texture name="West" diffuse-map="endW.jpg" />
+					<texture name="South" diffuse-map="endS.jpg" />
+					<texture name="East" diffuse-map="endE.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="mehrab">
+			<mesh file="mehrab.3ds">
+					<texture name="North" diffuse-map="mehrabN.jpg" />
+					<texture name="West" diffuse-map="mehrabW.jpg" />
+					<texture name="South" diffuse-map="mehrabS.jpg" />
+					<texture name="East" diffuse-map="mehrabE.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="tagh">
+			<mesh file="tagh.3ds">
+					<texture name="North" diffuse-map="darvazeN.jpg" />
+					<texture name="West" diffuse-map="darvazeW.jpg" />
+					<texture name="South" diffuse-map="darvazeS.jpg" />
+					<texture name="East" diffuse-map="darvazeE.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="taghNoorNS">
+			<mesh file="taghNoorNS.3ds"/>
+		</prop>
+		<prop name="taghNoorWE">
+			<mesh file="taghNoorWE.3ds"/>
+		</prop>
+		<prop name="darvaze">
+			<mesh file="darvaze.3ds">
+					<texture name="North" diffuse-map="darvazeN.jpg" />
+					<texture name="West" diffuse-map="darvazeW.jpg" />
+					<texture name="South" diffuse-map="darvazeS.jpg" />
+					<texture name="East" diffuse-map="darvazeE.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="menare">
+			<mesh file="menare.3ds"/>
+		</prop>
+		<prop name="gonbadMJ">
+			<mesh file="gonbadMJ.3ds"/>
+		</prop>
+		<prop name="gonbad">
+			<mesh file="gonbad.3ds"/>
+		</prop>
+		<prop name="stair">
+			<mesh file="stair.3ds">
+					<texture name="North" diffuse-map="stairN.jpg" />
+					<texture name="West" diffuse-map="stairW.jpg" />
+					<texture name="South" diffuse-map="stairS.jpg" />
+					<texture name="East" diffuse-map="stairE.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="saye">
+			<mesh file="saye.3ds">
+					<texture name="South" diffuse-map="sayeS.jpg" />	
+					<texture name="West" diffuse-map="sayeW.jpg" />	
+			</mesh>
+		</prop>
+		<prop name="badgir">
+			<mesh file="badgir.3ds"/>
+		</prop>
+		<prop name="carpet">
+			<mesh file="carpet.3ds">
+					<texture name="northSouth" diffuse-map="carpetNS.jpg" />	
+					<texture name="WestEast" diffuse-map="carpetWE.jpg" />	
+			</mesh>
+		</prop>
+		<prop name="balaro">
+			<mesh file="balaro.3ds">	
+			<texture name="North" diffuse-map="balaroN.jpg" />	
+			<texture name="West" diffuse-map="balaroW.jpg" />	
+			<texture name="South" diffuse-map="balaroS.jpg" />	
+			<texture name="East" diffuse-map="balaroE.jpg" />	
+			</mesh>
+		</prop>
+	</prop-group>
+</library>

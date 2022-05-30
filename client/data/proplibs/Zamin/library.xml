@@ -1,0 +1,126 @@
+<library name="zamin">	
+	<prop-group name="zamin">
+		<prop name="half">
+			<mesh file="half.3DS">
+					<texture name="khak" diffuse-map="half.jpg" />	
+					<texture name="straw" diffuse-map="straw_half.jpg" />	
+			</mesh>
+		</prop>
+		<prop name="halfx1">
+			<mesh file="halfx1.3DS">
+					<texture name="khak" diffuse-map="halfx1.jpg" />	
+					<texture name="straw" diffuse-map="straw_halfx1.jpg" />	
+			</mesh>
+		</prop>
+		<prop name="1x1">
+			<mesh file="1x1.3DS">
+					<texture name="khak" diffuse-map="khak1x1.jpg" />	
+					<texture name="straw" diffuse-map="straw_1x1.jpg" />
+					<texture name="straw 2" diffuse-map="straw_2.jpg" />
+					<texture name="crack 1" diffuse-map="crack_1.jpg" />	
+					<texture name="crack 2" diffuse-map="crack_2.jpg" />	
+					<texture name="crack 3" diffuse-map="crack_3.jpg" />	
+					<texture name="crack 4" diffuse-map="crack_4.jpg" />	
+					<texture name="crack 5" diffuse-map="crack_5.jpg" />	
+					<texture name="crack 6" diffuse-map="crack_6.jpg" />	
+					<texture name="crack 7" diffuse-map="crack_7.jpg" />	
+					<texture name="crack 8" diffuse-map="crack_8.jpg" />	
+					<texture name="crack 9" diffuse-map="crack_9.jpg" />	
+					<texture name="grass" diffuse-map="grass.jpg" />
+					<texture name="grass 1" diffuse-map="grass_1.jpg" />
+					<texture name="grass 2" diffuse-map="grass_2.jpg" />
+					<texture name="grass 3" diffuse-map="grass_3.jpg" />
+					<texture name="path" diffuse-map="path.jpg" />
+					<texture name="path 1" diffuse-map="path_1.jpg" />
+					<texture name="path 2" diffuse-map="path_2.jpg" />
+					<texture name="path 3" diffuse-map="path_3.jpg" />
+					<texture name="path 4" diffuse-map="path_4.jpg" />
+					<texture name="path 5" diffuse-map="path_5.jpg" />
+					<texture name="path 6" diffuse-map="path_6.jpg" />
+					<texture name="path 7" diffuse-map="path_7.jpg" />
+					<texture name="path 8" diffuse-map="path_8.jpg" />
+					<texture name="path 9" diffuse-map="path_9.jpg" />
+					<texture name="path 10" diffuse-map="path_10.jpg" />
+					<texture name="grass path 1" diffuse-map="grass_path_1.jpg" />
+					<texture name="grass path 2" diffuse-map="grass_path_2.jpg" />
+					<texture name="grass path 3" diffuse-map="grass_path_3.jpg" />
+			</mesh>
+		</prop>
+		<prop name="2x2">
+			<mesh file="2x2.3DS">
+					<texture name="khak" diffuse-map="khak2x2.jpg" />	
+			</mesh>
+		</prop>
+		<prop name="5x5">
+			<mesh file="5x5.3DS">
+					<texture name="fade" diffuse-map="fade.jpg" />
+					<texture name="fade turn" diffuse-map="fade_turn.jpg" />					
+			</mesh>
+		</prop>
+		<prop name="taghBala">
+			<mesh file="taghBala.3DS"/>
+		</prop>
+		<prop name="half+">
+			<mesh file="half+.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="elements">
+		<prop name="rabet">
+			<mesh file="rabet.3DS">	
+				<texture name="North" diffuse-map="rabetN.jpg" />	
+				<texture name="West" diffuse-map="rabetW.jpg" />
+				<texture name="South" diffuse-map="rabetS.jpg" />	
+				<texture name="East" diffuse-map="rabetE.jpg" />				
+			</mesh>
+		</prop>
+		<prop name="nakhl">
+			<mesh file="nakhl.3DS">	
+			</mesh>
+		</prop>
+		<prop name="parche">
+			<mesh file="parche.3DS">	
+			</mesh>
+		</prop>
+		<prop name="yonje">
+			<mesh file="yonje.3DS">	
+				<texture name="NorthSouth" diffuse-map="yonjeNS.jpg" />	
+				<texture name="WestEase" diffuse-map="yonjeWE.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Tree 1">
+			<sprite file="wood1.png" origin-y="0.95" scale="5"/>
+		</prop>
+		<prop name="Bush 2">
+			<sprite file="bush2.png" origin-y="0.95" scale="3"/>
+		</prop>
+		<prop name="lale">
+			<sprite file="lale.png" origin-y="0.95" scale="1"/>
+		</prop>
+		<prop name="lale2">
+			<sprite file="lale2.png" origin-y="0.95" scale="1"/>
+		</prop>
+		<prop name="lale3">
+			<sprite file="lale3.png" origin-y="0.95" scale="1"/>
+		</prop>
+		<prop name="lale4">
+			<sprite file="lale4.png" origin-y="0.95" scale="1"/>
+		</prop>
+		<prop name="lale5">
+			<sprite file="lale5.png" origin-y="0.95" scale="1"/>
+		</prop>
+		<prop name="Billboard">
+			<mesh file="bilboard.3ds">
+					<texture name="default" diffuse-map="shit_0.jpg" />
+					<texture name="promo 1" diffuse-map="shit_1.jpg" />
+					<texture name="promo 2" diffuse-map="shit_2.jpg" />
+					<texture name="promo 3" diffuse-map="shit_3.jpg" />
+
+					<texture-ext-area x="5" y="7" width="150" height="70"/>
+					<texture-ext-area x="5" y="85" width="150" height="70"/>
+			</mesh>
+		</prop>
+
+	</prop-group>
+</library>

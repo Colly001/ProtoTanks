@@ -1,0 +1,41 @@
+<library name="NY">
+	<prop-group name="NY">
+		<prop name="Elka">
+			<mesh file="elka.3ds"/>
+		</prop>
+		<prop name="ny_banner">
+			<mesh file="ny_banner.3ds">
+				<texture name="NY Ban 0" diffuse-map="ny_ban.jpg" />
+				<texture name="NY Ban 1" diffuse-map="ny_ban1.jpg" />
+				<texture name="NY Ban 2" diffuse-map="ny_ban2.jpg" />
+				<texture name="NY Ban 3" diffuse-map="ny_ban3.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Snowman Sprites">
+		<prop name="snowman 0">
+			<sprite file="snowman_0.png" origin-y="0.95" scale="3"/>
+		</prop>
+		<prop name="snowman 2">
+			<sprite file="snowman_2.png" origin-y="0.95" scale="3"/>
+		</prop>
+		<prop name="snowman 4">
+			<sprite file="snowman_4.png" origin-y="0.95" scale="3"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Shar 1">
+			<sprite file="shar_1.png" origin-y="0.1" scale="1"/>
+		</prop>
+		<prop name="Shar 2">
+			<sprite file="shar_2.png" origin-y="0.1" scale="1"/>
+		</prop>
+		<prop name="Shar 3">
+			<sprite file="shar_3.png" origin-y="0.1" scale="1"/>
+		</prop>
+		<prop name="Shar 4">
+			<sprite file="shar_4.png" origin-y="0.1" scale="1"/>
+		</prop>
+	</prop-group>
+
+</library>
