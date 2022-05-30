@@ -1,0 +1,156 @@
+<library name="Defense">
+
+	<prop-group name="small_tunnel">
+		<prop name="Tunnel1">
+				<mesh  file="crd_str.3ds"/>
+		</prop>
+		<prop name="Tunnel2">
+				<mesh  file="crd_st.3ds"/>
+		</prop>
+		<prop name="Tunnel3">
+				<mesh  file="crd_s_st.3ds"/>
+		</prop>
+		<prop name="Tunnel4">
+				<mesh  file="crd_ins.3ds"/>
+		</prop>
+		<prop name="Tunnel5">
+				<mesh  file="crd_b_d1.3ds"/>
+		</prop>		
+		<prop name="Tunnel6">
+				<mesh  file="crd_b_d2.3ds"/>
+		</prop>		
+
+		<prop name="Tunnel7">
+				<mesh  file="crd_b_d3.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="big_tunnel">
+		<prop name="BT1">
+				<mesh  file="tunnel_1.3ds"/>
+		</prop>
+		<prop name="BT2">
+				<mesh  file="tunnel_2.3ds"/>
+		</prop>
+		<prop name="BT3">
+				<mesh  file="tun_corn.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="trench">
+		<prop name="tren1">
+				<mesh  file="tren_end.3ds"/>
+		</prop>
+		<prop name="tren3">
+				<mesh  file="tren1end.3ds"/>
+		</prop>
+		<prop name="tren4">
+				<mesh  file="trench.3ds"/>
+		</prop>		
+		<prop name="tren5">
+				<mesh  file="trench1.3ds"/>
+		</prop>
+		</prop-group>
+	<prop-group name="parapets">
+		<prop name="par1">
+				<mesh  file="parapet1.3ds"/>
+		</prop>
+		<prop name="par2">
+				<mesh  file="par_end1.3ds"/>
+		</prop>
+		<prop name="par3">
+				<mesh  file="point.3ds"/>
+		</prop>
+		<prop name="par4">
+				<mesh  file="chet.3ds"/>
+		</prop>
+		<prop name="par5">
+				<mesh  file="chetup.3ds"/>
+		</prop>
+		<prop name="par6">
+				<mesh  file="border.3ds"/>
+		</prop>
+		<prop name="par7">
+				<mesh  file="beam.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="hill">
+		<prop name="hill1">
+				<mesh  file="anglepl.3ds"/>
+		</prop>
+		<prop name="hill2">
+				<mesh  file="angleup.3ds"/>
+		</prop>
+		<prop name="hill3">
+				<mesh  file="angleupb.3ds"/>
+		</prop>
+		<prop name="hill4">
+				<mesh  file="upper.3ds"/>
+		</prop>
+		<prop name="hill5">
+				<mesh  file="uppermin.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="grid">
+		<prop name="gr1">
+				<mesh  file="resh.3ds"/>
+		</prop>
+		<prop name="gr2">
+				<mesh  file="reshcon.3ds"/>
+		</prop>
+		<prop name="gr3">
+				<mesh  file="reshdest.3ds"/>
+		</prop>
+		<prop name="gr4">
+				<mesh  file="reshtram.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="dot">
+		<prop name="dot1">
+				<mesh  file="dot.3ds"/>
+		</prop>
+		<prop name="dot2">
+				<mesh  file="dot_big.3ds"/>
+		</prop>
+		<prop name="dot3">
+				<mesh  file="rise.3ds"/>
+		</prop>
+		<prop name="dot4">
+				<mesh  file="snip_tow.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="dot_com">
+		<prop name="dc1">
+				<mesh  file="dc_corn.3ds"/>
+		</prop>
+		<prop name="dc2">
+				<mesh  file="dc_short.3ds"/>
+		</prop>
+		<prop name="dc3">
+				<mesh  file="dc_wall.3ds"/>
+		</prop>
+		<prop name="dc4">
+				<mesh  file="dc_wind.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="cell">
+		<prop name="cell1">
+				<mesh  file="blk.3ds"/>
+		</prop>
+		<prop name="cell2">
+				<mesh  file="blkcnr.3ds"/>
+		</prop>
+		<prop name="cell3">
+				<mesh  file="blkcnrb.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="show">
+		<prop name="camera">
+				<mesh  file="camera.3ds"/>
+		</prop>
+		<prop name="lighttow">
+				<mesh  file="lighttow.3ds"/>
+		</prop>
+		<prop name="monitor">
+				<mesh  file="monitor.3ds"/>
+		</prop>
+	</prop-group>
+</library>

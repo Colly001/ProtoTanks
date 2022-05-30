@@ -1,0 +1,37 @@
+<library name="water">
+	<prop-group name="Water">
+		<prop name="Tile Water">
+			<mesh file="TileWater.3ds">
+					<texture name="default" diffuse-map="Water.png" />
+			</mesh>
+		</prop>
+		</prop-group>
+	<prop-group name="Ice">
+		<prop name="Tile Ice">
+			<mesh file="TileIce.3ds">
+					<texture name="default" diffuse-map="Ice.png" />
+			</mesh>
+		</prop>
+		<prop name="Half Ice">
+			<mesh file="HalfIce.3ds">
+					<texture name="default" diffuse-map="HalfIce.png" />
+		</mesh>
+		</prop>
+		<prop name="Corner Ice">
+			<mesh file="CornerIce.3ds">
+					<texture name="default" diffuse-map="CornerIce.png" />
+		</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="bottom">
+		<prop name="bottom">
+			<mesh file="tile_01.3ds">
+					<texture name="sb1" diffuse-map="sand_bottom_1.jpg" />
+					<texture name="sb2" diffuse-map="sand_bottom_2.jpg" />
+					<texture name="sb3" diffuse-map="sand_bottom_3.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+
+
+</library>

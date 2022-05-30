@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config camera-radius="500">
+	<hulls>
+		<model file="model/empty.3ds" lightmap="model/empty.jpg" details="model/empty.jpg"/>
+	</hulls>
+
+	<turrets>
+		<model file="model/box.3ds" lightmap="colormaps/Medkit.jpg" details="colormaps/Medkit.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DA.jpg" details="colormaps/DA.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DD.jpg" details="colormaps/DD.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DS.jpg" details="colormaps/DS.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/1Kr.jpg" details="colormaps/1Kr.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/2Kr_NewYear12.jpg" details="colormaps/2Kr_NewYear12.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/50Kr_VictoryDay11.jpg" details="colormaps/50Kr_VictoryDay11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/50Kr_VictoryDay11_Unused.jpg" details="colormaps/50Kr_VictoryDay11_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/50Kr_Cn_NationalDay11.jpg" details="colormaps/50Kr_Cn_NationalDay11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/100Kr.jpg" details="colormaps/100Kr.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/200Kr.jpg" details="colormaps/200Kr.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/300Kr.jpg" details="colormaps/300Kr.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/1000Kr.jpg" details="colormaps/1000Kr.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Euro2012.jpg" details="colormaps/Euro2012.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Rnd_NewYear11.jpg" details="colormaps/Rnd_NewYear11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Rnd_NewYear11_Unused.jpg" details="colormaps/Rnd_NewYear11_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Old_Money.jpg" details="colormaps/Old_Money.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Old_Repair.jpg" details="colormaps/Old_Repair.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Old_DD.jpg" details="colormaps/Old_DD.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Old_DD2.jpg" details="colormaps/Old_DD2.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Old_DS.jpg" details="colormaps/Old_DS.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Older_Medkit.jpg" details="colormaps/Older_Medkit.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Older_DD.jpg" details="colormaps/Older_DD.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Older_DA.jpg" details="colormaps/Older_DA.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Older_DS.jpg" details="colormaps/Older_DS.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Older_Repair.jpg" details="colormaps/Older_Repair.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/1Kr_NewYear11.jpg" details="colormaps/1Kr_NewYear11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DA_NewYear11.jpg" details="colormaps/DA_NewYear11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Medkit_NewYear11.jpg" details="colormaps/Medkit_NewYear11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DS_NewYear11.jpg" details="colormaps/DS_NewYear11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DD_NewYear11.jpg" details="colormaps/DD_NewYear11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/100Kr_NewYear11.jpg" details="colormaps/100Kr_NewYear11.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Medkit_NewYear12.jpg" details="colormaps/Medkit_NewYear12.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DA_NewYear12.jpg" details="colormaps/DA_NewYear12.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DD_NewYear12.jpg" details="colormaps/DD_NewYear12.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DS_NewYear12.jpg" details="colormaps/DS_NewYear12.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/1Kr_NewYear12.jpg" details="colormaps/1Kr_NewYear12.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/100Kr_NewYear12.jpg" details="colormaps/100Kr_NewYear12.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Medkit_NewYear11_Unused.jpg" details="colormaps/Medkit_NewYear11_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DA_NewYear11_Unused.jpg" details="colormaps/DA_NewYear11_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DD_NewYear11_Unused.jpg" details="colormaps/DD_NewYear11_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DS_NewYear11_Unused.jpg" details="colormaps/DS_NewYear11_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/1Kr_NewYear11_Unused.jpg" details="colormaps/1Kr_NewYear11_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Medkit_NewYear12_Unused.jpg" details="colormaps/Medkit_NewYear12_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DA_NewYear12_Unused.jpg" details="colormaps/DA_NewYear12_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DD_NewYear12_Unused.jpg" details="colormaps/DD_NewYear12_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DS_NewYear12_Unused.jpg" details="colormaps/DS_NewYear12_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/1Kr_NewYear12_Unused.jpg" details="colormaps/1Kr_NewYear12_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/100Kr_NewYear12_Unused.jpg" details="colormaps/100Kr_NewYear12_Unused.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/Medkit_NewYear12_Unused2.jpg" details="colormaps/Medkit_NewYear12_Unused2.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DA_NewYear12_Unused2.jpg" details="colormaps/DA_NewYear12_Unused2.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DD_NewYear12_Unused2.jpg" details="colormaps/DD_NewYear12_Unused2.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/DS_NewYear12_Unused2.jpg" details="colormaps/DS_NewYear12_Unused2.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/1Kr_NewYear12_Unused2.jpg" details="colormaps/1Kr_NewYear12_Unused2.jpg"/>
+		<model file="model/box.3ds" lightmap="colormaps/100Kr_NewYear12_Unused2.jpg" details="colormaps/100Kr_NewYear12_Unused2.jpg"/>
+	</turrets>
+
+	<colormaps>
+		<colormap file="model/empty.jpg"/>
+	</colormaps>
+</config>

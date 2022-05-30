@@ -1,0 +1,120 @@
+<library name="Passage">
+
+	<prop-group name="big_bridge">
+		<prop name="B_brg1">
+				<mesh  file="bbr_ang.3ds"/>
+		</prop>
+		<prop name="B_brg2">
+				<mesh  file="bbr_pil.3ds"/>
+		</prop>
+		<prop name="B_brg3">
+				<mesh  file="bbr_str.3ds"/>
+		</prop>
+		<prop name="B_brg4">
+				<mesh  file="pillar.3ds"/>
+		</prop>
+		<prop name="B_brg5">
+				<mesh  file="pillar_d.3ds"/>
+		</prop>		
+	</prop-group>
+	<prop-group name="small_bridge">
+		<prop name="br_h_st">
+				<mesh  file="br_h_st.3ds"/>
+		</prop>
+		<prop name="br_h_up">
+				<mesh  file="br_h_up.3ds"/>
+		</prop>
+		<prop name="br_hm_up">
+				<mesh  file="br_hm_up.3ds"/>
+		</prop>
+		<prop name="br_m_st">
+				<mesh  file="br_m_st.3ds"/>
+		</prop>
+		<prop name="br_m_up">
+				<mesh  file="br_m_up.3ds"/>
+		</prop>
+		<prop name="br_mh_st">
+				<mesh  file="br_mh_st.3ds"/>
+		</prop>
+		<prop name="br_mh_up">
+				<mesh  file="br_mh_up.3ds"/>
+		</prop>	
+	</prop-group>
+	<prop-group name="bridge_a">
+		<prop name="BA1">
+				<mesh  file="brid_1.3ds"/>
+		</prop>
+		<prop name="BA2">
+				<mesh  file="brid_2.3ds">
+					<texture name="BA2 var1" diffuse-map="brid_2.jpg" />
+					<texture name="BA2 var2" diffuse-map="brid_2v2.jpg" />
+					<texture name="BA2 var3" diffuse-map="brid_2v3.jpg" />
+				</mesh>
+		</prop>
+		<prop name="BA3">
+				<mesh  file="brid_3.3ds"/>
+		</prop>
+		<prop name="BA4">
+				<mesh  file="brid_4.3ds"/>
+		</prop>
+		<prop name="BA5">
+				<mesh  file="brid_5.3ds"/>
+		</prop>
+		<prop name="BA6">
+				<mesh  file="brid_6.3ds"/>
+		</prop>
+		<prop name="BA7">
+				<mesh  file="brid_7.3ds"/>
+		</prop>	
+	</prop-group>
+	<prop-group name="rico_brid">
+		<prop name="rico_brid">
+				<mesh  file="bridg.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="parking">
+		<prop name="park1">
+				<mesh  file="upcln.3ds"/>
+		</prop>
+		<prop name="park2">
+				<mesh  file="upclnb.3ds"/>
+		</prop>
+		<prop name="park3">
+				<mesh  file="upone.3ds"/>
+		</prop>
+		<prop name="park4">
+				<mesh  file="upright.3ds"/>
+		</prop>
+		<prop name="park5">
+				<mesh  file="uptwo.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="springboard">
+		<prop name="truck">
+				<mesh  file="truck.3ds"/>
+		</prop>
+		<prop name="spring1">
+				<mesh  file="springb.3ds"/>
+		</prop>
+		<prop name="spring2">
+				<mesh  file="springb01.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="arch">
+		<prop name="arch1">
+				<mesh  file="arch1.3ds"/>
+		</prop>
+		<prop name="arch2">
+				<mesh  file="arch2.3ds"/>
+		</prop>
+		<prop name="arch3">
+				<mesh  file="arch3.3ds"/>
+		</prop>
+		<prop name="arch4">
+				<mesh  file="arch4.3ds"/>
+		</prop>
+		<prop name="arch5">
+				<mesh  file="arch_up.3ds"/>
+		</prop>
+	</prop-group>
+</library>

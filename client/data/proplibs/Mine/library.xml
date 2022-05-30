@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Mine">
+    <prop-group name="Mine">
+        <prop name="Mine">
+            <mesh file="mine.3ds">
+                <texture name="Mine" diffuse-map="mine.jpg"/>
+            </mesh>
+			
+        </prop>
+        <prop name="Blue">
+            <mesh file="mine.3ds">
+                <texture name="Mine blue" diffuse-map="mine_blue.jpg"/>
+				<texture name="NY2015 Mine blue" diffuse-map="01-11-39.jpg"/>
+            </mesh>
+			
+        </prop>
+        <prop name="Red">
+            <mesh file="mine.3ds">
+                <texture name="Mine red" diffuse-map="mine_red.jpg"/>
+				<texture name="NY2015 Mine red" diffuse-map="01-11-34.jpg"/>
+            </mesh>
+			
+                
+            
+        </prop>
+        <prop name="Green">
+            <mesh file="mine.3ds">
+                <texture name="Mine green" diffuse-map="mine_green.jpg"/>
+				<texture name="NY2015 Mine green" diffuse-map="01-11-37.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Yellow">
+            <mesh file="mine.3ds">
+                <texture name="Mine yellow" diffuse-map="mine_yellow.jpg"/>
+				 <texture name="NY2015 Mine yellow" diffuse-map="01-11-36.jpg"/>
+            </mesh>
+			
+        </prop>
+   </prop-group>
+</library>

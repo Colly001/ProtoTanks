@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="prop1">
+    <prop-group name="default">
+        <prop name="level">
+            <mesh file="level.3ds">
+                <texture name="builds_1" diffuse-map="builds_1.jpg"/>
+				<texture name="builds_2" diffuse-map="builds_2.jpg"/>
+				<texture name="bush1" diffuse-map="bush1.png"/>
+				<texture name="bush2" diffuse-map="bush2.png"/>
+				<texture name="ezh" diffuse-map="ezh.png"/>
+				<texture name="outer_ar" diffuse-map="outer_ar.jpg"/>
+				<texture name="part_1" diffuse-map="part_1.jpg"/>
+				<texture name="part_2" diffuse-map="part_2.jpg"/>
+				<texture name="river" diffuse-map="river.jpg"/>
+				<texture name="transmat" diffuse-map="transmat.png"/>
+				<texture name="wood1" diffuse-map="wood1.png"/>
+				<texture name="wood2" diffuse-map="wood2.png"/>
+            </mesh>
+        </prop>
+    </prop-group>
+</library>

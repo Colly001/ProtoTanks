@@ -1,0 +1,64 @@
+<library name="Castle">
+	<prop-group name="Fort">
+		<prop name="Castle">
+			<mesh file="castle.3DS"/>
+		</prop>
+		<prop name="Fort Wall">
+			<mesh file="wall.3DS">
+				<texture name="usual" diffuse-map="wall_1.jpg" />
+				<texture name="burned" diffuse-map="wall_2.jpg" />
+				<texture name="broken" diffuse-map="wall_3.jpg" />
+			</mesh>
+
+		</prop>
+		<prop name="Fort Wall Short">
+			<mesh file="wall_short.3DS">
+				<texture name="usual" diffuse-map="short_1.jpg" />
+				<texture name="anarchy" diffuse-map="short_2.jpg" />
+				<texture name="Che" diffuse-map="short_3.jpg" />
+
+			</mesh>
+		</prop>
+		<prop name="Fort Wall Corner In">
+			<mesh file="wall_cor_in.3DS"/>
+		</prop>
+		<prop name="Fort Wall Corner Out">
+			<mesh file="wall_cor_out.3DS"/>
+		</prop>
+		<prop name="Fort Wall End 1">
+			<mesh file="wall_end_1.3DS"/>
+		</prop>
+		<prop name="Fort Wall End 2">
+			<mesh file="wall_end_2.3DS"/>
+		</prop>
+		<prop name="Fort Wall broken 1">
+			<mesh file="wall_broken_1.3DS"/>
+		</prop>
+		<prop name="Fort Wall broken 2">
+			<mesh file="wall_broken_2.3DS"/>
+		</prop>
+		<prop name="Fort Wall Gate">
+			<mesh file="wall_gate.3DS"/>
+		</prop>
+		<prop name="Fort Tower Straight">
+			<mesh file="tower_str.3DS"/>
+		</prop>
+		<prop name="Fort Tower End">
+			<mesh file="tower_end.3DS"/>
+		</prop>
+		<prop name="Fort Tower Corner">
+			<mesh file="tower_corner.3DS"/>
+		</prop>
+		<prop name="Fort Tower Roof">
+			<mesh file="tower_roof.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Houses">
+		<prop name="Fahwerk House 1">
+			<mesh file="fahwerk1.3DS"/>
+		</prop>
+		<prop name="Fahwerk House 2">
+			<mesh file="fahwerk2.3DS"/>
+		</prop>
+	</prop-group>
+</library>

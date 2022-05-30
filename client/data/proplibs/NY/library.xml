@@ -1,0 +1,22 @@
+<library name="NY">
+	<prop-group name="NY">
+		<prop name="Elka">
+			<mesh file="elka.3ds"/>
+		</prop>
+</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Shar 1">
+			<sprite file="shar_1.png" origin-y="0.1" scale="1"/>
+		</prop>
+		<prop name="Shar 2">
+			<sprite file="shar_2.png" origin-y="0.1" scale="1"/>
+		</prop>
+		<prop name="Shar 3">
+			<sprite file="shar_3.png" origin-y="0.1" scale="1"/>
+		</prop>
+		<prop name="Shar 4">
+			<sprite file="shar_4.png" origin-y="0.1" scale="1"/>
+		</prop>
+	</prop-group>
+
+</library>

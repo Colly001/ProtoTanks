@@ -1,0 +1,179 @@
+<library name="Elements v1">
+
+	<prop-group name="Outer Walls">
+		<prop name="Outer Wall 1">
+				<mesh  file="ow_1.3ds"/>
+		</prop>
+		<prop name="Outer Wall 2">
+				<mesh  file="ow_2.3ds">
+					<texture name="Ow2 1" diffuse-map="ow_2.jpg" />
+					<texture name="Ow2 2" diffuse-map="ow_21.jpg" />
+					<texture name="Ow2 3" diffuse-map="ow_22.jpg" />
+					<texture name="Ow2 4" diffuse-map="ow_23.jpg" />
+					<texture name="Ow2 5" diffuse-map="ow_24.jpg" />
+				</mesh>
+		</prop>
+		<prop name="WTile 1">
+				<mesh  file="wtile_1.3ds">
+					<texture name="WTile Big 1" diffuse-map="wtile_b.jpg" />
+					<texture name="WTile Big 2" diffuse-map="wtile_b1.jpg" />
+					<texture name="WTile Big 3" diffuse-map="wtile_b2.jpg" />
+				</mesh>
+		</prop>
+		<prop name="WTile 2">
+				<mesh  file="wtile_2.3ds">
+					<texture name="WTile Small 1" diffuse-map="wtile_s.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Outer Wall Inner Angle">
+				<mesh  file="ow_ai.3ds"/>
+		</prop>		
+		<prop name="Outer Wall Outer Angle">
+				<mesh  file="ow_ao.3ds"/>
+		</prop>		
+
+		<prop name="Outer Wall Tower">
+				<mesh  file="ow_t.3ds"/>
+		</prop>
+		<prop name="Tunnel 1">
+				<mesh  file="tunnel_1.3ds"/>
+		</prop>
+		<prop name="Tunnel 2">
+				<mesh  file="tunnel_2.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Walls">
+		<prop name="Wall 1">
+				<mesh  file="wall_1.3ds"/>
+		</prop>
+		<prop name="Wall 2">
+				<mesh  file="wall_2.3ds"/>
+		</prop>
+		<prop name="Wall 3">
+				<mesh  file="wall_3.3ds"/>
+		</prop>
+		<prop name="wallcor">
+				<mesh  file="wallcorn.3ds"/>
+		</prop>
+		<prop name="Wgate">
+				<mesh  file="wgates.3ds"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Bridge">
+		<prop name="Bridge 1">
+				<mesh  file="brid_1.3ds"/>
+		</prop>
+		<prop name="Bridge 2">
+				<mesh  file="brid_2.3ds">
+					<texture name="Bridge 1" diffuse-map="brid_2.jpg" />
+					<texture name="Bridge 2" diffuse-map="brid_21.jpg" />
+					<texture name="Bridge 3" diffuse-map="brid_22.jpg" />
+					<texture name="Bridge 4" diffuse-map="brid_23.jpg" />
+					<texture name="Bridge 5" diffuse-map="brid_24.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Bridge 3">
+				<mesh  file="brid_3.3ds"/>
+		</prop>
+		<prop name="Bridge 4">
+				<mesh  file="brid_4.3ds"/>
+		</prop>
+		<prop name="Bridge 5">
+				<mesh  file="brid_5.3ds"/>
+		</prop>
+		<prop name="Bridge 6">
+				<mesh  file="brid_6.3ds">
+					<texture name="Bridge6 1" diffuse-map="brid_6.jpg" />
+					<texture name="Bridge6 2" diffuse-map="brid_61.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Bridge 7">
+				<mesh  file="brid_7.3ds">
+					<texture name="Bridge6 1" diffuse-map="brid_7.jpg" />
+					<texture name="Bridge6 2" diffuse-map="brid_71.jpg" />
+					<texture name="Bridge6 2" diffuse-map="brid_72.jpg" />
+				</mesh>
+		</prop>
+		<prop name="St_bridge 1">
+				<mesh  file="st_br01.3ds"/>
+		</prop>
+		<prop name="St_bridge 2">
+				<mesh  file="st_br02.3ds"/>	
+		</prop>
+	</prop-group>
+
+	<prop-group name="Stuffs">
+		<prop name="El_post">
+				<mesh  file="post.3ds"/>	
+		</prop>
+		<prop name="Billboard">
+			<mesh file="bilboard.3ds">
+					<texture name="default" diffuse-map="shit_0.jpg" />
+					<texture name="promo 1" diffuse-map="shit_1.jpg" />
+					<texture name="promo 2" diffuse-map="shit_2.jpg" />
+					<texture name="promo 3" diffuse-map="shit_3.jpg" />
+
+					<texture-ext-area x="5" y="7" width="150" height="70"/>
+					<texture-ext-area x="5" y="85" width="150" height="70"/>
+			</mesh>
+		</prop>
+		<prop name="Blocks">
+				<mesh  file="blocks.3ds"/>	
+		</prop>
+		<prop name="Broktank">
+				<mesh  file="brok_tank.3ds"/>	
+		</prop>
+		<prop name="Tube 1">
+				<mesh  file="tube_1.3ds"/>
+		</prop>
+		<prop name="Tube 2">
+				<mesh  file="tube_2.3ds"/>
+		</prop>
+		<prop name="Tube 3">
+				<mesh  file="tube_3.3ds"/>
+		</prop>
+		<prop name="Tube 4">
+				<mesh  file="tube_4.3ds"/>
+		</prop>
+		<prop name="Chest01">
+				<mesh  file="chest01.3ds"/>	
+		</prop>
+		<prop name="Chest02">
+				<mesh  file="chest02.3ds"/>	
+		</prop>
+		<prop name="Chest03">
+				<mesh  file="chest03.3ds"/>	
+		</prop>
+		<prop name="Chest04">
+				<mesh  file="chest04.3ds"/>	
+		</prop>
+		<prop name="Chest05">
+				<mesh  file="chest05.3ds"/>	
+		</prop>
+		<prop name="Chest06">
+				<mesh  file="chest06.3ds"/>	
+		</prop>
+	</prop-group>
+
+	<prop-group name="Trees">
+		<prop name="Tree1">
+				<mesh  file="tree01.3ds"/>	
+		</prop>
+		<prop name="Tree2">
+				<mesh  file="tree02.3ds"/>	
+		</prop>
+	</prop-group>
+
+	<prop-group name="Sprites">
+		<prop name="Tree 1">
+			<sprite file="wood1.png" origin-y="0.95" scale="5"/>
+		</prop>
+		<prop name="Bush 1">
+			<sprite file="bush1.png" origin-y="0.95" scale="5"/>
+		</prop>
+		<prop name="Bush 2">
+			<sprite file="bush2.png" origin-y="0.95" scale="5"/>
+		</prop>
+	</prop-group>
+	
+</library>

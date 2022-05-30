@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Flags">
+    <prop-group name="default">
+        <prop name="FlagBLUE">
+            <mesh file="object.3ds">
+			<texture name="Blue" diffuse-map="blue.jpg"/>
+			
+            </mesh>
+        </prop>
+        <prop name="FlagRED">
+            <mesh file="object.3ds">
+			<texture name="Red" diffuse-map="red.JPG"/>		
+            </mesh>
+        </prop>
+		<prop name="Flag Sprite Blue">
+		<sprite file="blue_flag.png" origin-y="1" scale="1"/>
+		
+		</prop>
+		<prop name="Flag Sprite Red">
+		<sprite file="red_flag.png" origin-y="1" scale="1"/>
+		
+		</prop>
+    </prop-group>
+</library>

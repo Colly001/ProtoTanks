@@ -1,0 +1,73 @@
+<library name="Crash">
+	<prop-group name="Crash">
+		<prop name="Part01">
+			<mesh file="part01.3DS"/>
+		</prop>
+		<prop name="Part02">
+			<mesh file="part02.3DS"/>
+		</prop>
+		<prop name="Part03">
+			<mesh file="part03.3DS"/>
+		</prop>
+		<prop name="Part04">
+			<mesh file="part04.3DS"/>
+		</prop>
+		
+		<prop name="Part05">
+			<mesh file="part05.3DS"/>
+		</prop>	
+		
+		<prop name="Part06">
+			<mesh file="part06.3DS"/>
+		</prop>	
+		<prop name="Part07">
+			<mesh file="part07.3DS"/>
+		</prop>			
+		<prop name="Part08">
+			<mesh file="part08.3DS"/>
+		</prop>	
+		<prop name="Part09">
+			<mesh file="part09.3DS"/>
+		</prop>	
+		<prop name="Part10">
+			<mesh file="part10.3DS"/>
+		</prop>
+		<prop name="Part11">
+			<mesh file="part11.3DS"/>
+		</prop>	
+		<prop name="Part12">
+			<mesh file="part12.3DS"/>
+		</prop>
+		<prop name="Part13">
+			<mesh file="part13.3DS"/>
+		</prop>	
+		<prop name="Part14">
+			<mesh file="part14.3DS"/>
+		</prop>	
+		<prop name="Part15">
+			<mesh file="part15.3DS"/>
+		</prop>	
+		<prop name="Part16">
+			<mesh file="part16.3DS"/>
+		</prop>	
+		<prop name="Part17">
+			<mesh file="part17.3DS"/>
+		</prop>	
+		<prop name="Part18">
+			<mesh file="part18.3DS"/>
+		</prop>	
+		<prop name="Part19">
+			<mesh file="part19.3DS"/>
+		</prop>	
+		<prop name="Part20">
+			<mesh file="part20.3DS"/>
+		</prop>	
+		<prop name="Part21">
+			<mesh file="part21.3DS"/>
+		</prop>	
+		<prop name="Part22">
+			<mesh file="part22.3DS"/>
+		</prop>									
+
+	</prop-group>
+</library>
