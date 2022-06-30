@@ -1,5 +1,5 @@
 ﻿<config>
-	<settings ip="127.0.0.1" port="5482"/>
+	<settings ip="5.249.161.250" port="5482"/>
 	<?settings ip="5.249.161.250" port="5482"?>
 		<maps>
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
