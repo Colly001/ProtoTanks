@@ -1,5 +1,5 @@
 ﻿<config>
-	<settings ip="5.249.161.250" port="5482"/>
+	<settings ip="127.0.0.1" port="5482"/>
 	<?settings ip="5.249.161.250" port="5482"?>
 		<maps>
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
@@ -40,7 +40,6 @@
 	<map name="Duel" xml="du.xml" preview="du.jpg"/>
 	<map name="Dusseldorf" xml="dus.xml" preview="dus.jpg"/>
 	<map name="Esplanade" xml="Эспаланда.xml" preview="Эспаланда.jpg"/>
-	<map name="Electrostation" xml="electrostation.xml" preview="electrostation.jpg"/>
 	<map name="Farm" xml="Ферма.xml" preview="Ферма.jpg"/>
 	<map name="Football" xml="Fotball.xml" preview="Fotball.jpg"/>
 	<map name="Forest" xml="Форест.xml" preview="Форест.jpg"/>
