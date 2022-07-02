@@ -1182,7 +1182,7 @@
 		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="1345812"/>
 	</turrets>
 	<colormaps>
-		<colormap path="data/colormaps/Mishin870/" name="Mishin870" price="0"/>
+		<colormap path="data/colormaps/Mishin870/" name="Devil" price="0"/>
 		<colormap path="data/colormaps/tester/" name="Tester" price="0"/>
 		<colormap path="data/colormaps/green/" name="Green" price="0"/>
 		<colormap path="data/colormaps/listopad/" name="Ukraine" price="0"/>
@@ -1231,10 +1231,11 @@
 				<colormap path="data/colormaps/tai/" name="Taiga" price="157500"/>
 				<colormap path="data/colormaps/pro/" name="Prodigi" price="144000"/>
                 <colormap path="data/colormaps/sk/" name="Rock" price="157500"/>
-                <colormap path="data/colormaps/godmode_on/" name="Devil" price="9999999999"/>
+                <colormap path="data/colormaps/fluid/" name="Fluid" price="15375"/>
                 <colormap path="data/colormaps/pic/" name="Picasso" price="207000"/>
 				<colormap path="data/colormaps/zews/" name="Zeus" price="187000"/>
                 <colormap path="data/colormaps/tina/" name="Clay" price="187000"/>
+				<colormap path="data/colormaps/all/" name="Lord" price="0"/>
 	</colormaps>
 	<numerics>
 		<numeric name="Repair Kit" url="data/numerics/heal.png" price="112"/>
@@ -1273,7 +1274,7 @@
             <description name="UFO" text="data/hulls/ares/m0/preview.png;UFO - The first levitating body in the game, invented by the creators of TankiOnline and it was never added to the game!"/>
 		</hulls>
 		<colormaps>
-			<description name="Mishin870" text="data/colormaps/Mishin870/preview.png;This paint is specially made for server admins, resists 99% of everything!"/>
+			<description name="Devil" text="data/colormaps/Mishin870/preview.png;"/>
 			<description name="Tester" text="data/colormaps/tester/preview.png;Mechanic Coating is based on principles developed by Nikola Tesla himself. Metal wrenches placed on carbon plates along a special grid of coordinates, under the influence of current, create a magnetic resonance field with properties not fully understood. The coating is installed on special test tanks, the pilots of which voluntarily participate in experiments, risking their lives for the benefit of future generations. The paint protects against: smokey - 25%. Twins - 25%. Flamethrower - 25%"/>
 			<description name="Green" text="data/colormaps/green/preview.png;More like a tribute to the traditions of classic tank building, this uncomplicated color, so beloved by designers around the world, has become a kind of standard for factory models. This legendary color is often returned true connoisseurs, having tried everything in the world."/>
 			<description name="Ukraine" text="data/colormaps/ukraine/preview.png;This paint has been added as a support to all Ukrainian people who are now fighting against Russian occupants. Слава Україні!"/>
@@ -1323,10 +1324,11 @@
 						<description name="Taiga" text="data/colormaps/tai/preview.png;Taiga's camouflage coating camouflages the tank so well in dense vegetation that it can even hunt elk. The shy animal does not notice the threat and approaches close to the combat vehicle. However, another tanker may be in the place of the elk ... "/>
 						<description name="Prodigi" text="data/colormaps/pro/preview.png;An improved version of the standard Digital is made using the secret technology Ripples in the Eyes. It not only reliably camouflages the tank, but also annoys the enemy, forcing him make more mistakes. "/>
                         <description name="Rock" text="data/colormaps/sk/preview.png;A paint with perfect anti-Tweens. Good damage reduction from Hammer, Isis, and Freeze. Useful for close to mid-range. Makes your tank look like a rock ."/>
-                        <description name="Devil" text="data/colormaps/godmode_on/preview.png;Godmode_ON's paint, sometimes referred to as the Lord of Paint, Devil's Paint and Lord. This paint provides a huge protection against all turrets. The exact value of protection against each one of the turrets is controversial. "/>
+                        <description name="Fluid" text="data/colormaps/fluid/preview.png;The fluid paint was invented by chemists by accident, which was done in a basic way. Chemistry fanatics usually use this paint against opponents on the battlefield."/>
                         <description name="Picasso" text="data/colormaps/pic/preview.png;Pablo Picasso's name for the renowned Cubist master Pablo Picasso is not in vain. Thin, polygonal armor pieces join together in an abstract pattern that dissipates even the most powerful lethal charge. The choice of true art critics!"/>			
                         <description name="Zeus" text="data/colormaps/zews/preview.png;Zeus Paint is named for its unusual texture. Bright flashes of lightning on your tank will reduce the damage of enemy cannons and make you look cool in any battle. "/>
                         <description name="Clay" text="data/colormaps/tina/preview.png;The paint codenamed Tina was developed for sabotage tank brigades operating in swampy areas. Tanks were so well camouflaged that even leeches did not notice them and at full speed crashed into an armored hull. Now the coating is being tested in new conditions - in a waterless area. "/>              
+						<description name="Lord" text="data/colormaps/all/preview.png;"/>
               </colormaps>
 		<numerics>
 			<description name="Repair Kit" text='data/numerics/hea.png;Gradually restores health at a rate of 30 hp per second. Heals either until complete of healing, or until it has exhausted its resource, equal to the full health of the tank. Indispensable thing in the battle. A set of well-matched medicines, neatly packaged in a plastic box, allows you to heal minor wounds and superficial cuts. The included thread, needle, and bactericidal gel will help reattach fingers, ears, and other small body parts that were cut off in the battlefield. The box itself is not only for storing all this stuff, according to the military engineers idea it should also act as a biotoilet.'/>
