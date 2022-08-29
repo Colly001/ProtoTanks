@@ -14,7 +14,7 @@
 	<map name="Atra (Snow)" xml="АТРАЗ.xml" preview="АТРАЗ.jpg"/>
 	<map name="Atra II" xml="Атра II.xml" preview="Атра II.jpg"/>
 	<map name="Atra II (Snow)" xml="АТРА2З.xml" preview="АТРА2З.jpg"/>
-	<map name="Barda" xml="Барда.xml" preview="Барда.jpg"/>
+	<map name="Barda" xml="Barda.xml" preview="Barda.jpg"/>
 	<map name="Berlin" xml="Берлин.xml" preview="Берлин.jpg"/>
 	<map name="Bobruisk (Snow)" xml="БОБРУЙСКЗ.xml" preview="БОБРУЙСКЗ.jpg"/>
 	<map name="Bobruisk" xml="Бобруйск.xml" preview="Бобруйск.jpg"/>
@@ -1864,7 +1864,7 @@
 <range val="7680"/>
 <damageDownDistance val="3000"/>
 <returnForce val="3000000"/>
-<force val="3000000"/>
+<force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="5000"/>
 <particleDamage val="7"/>
@@ -1878,7 +1878,7 @@
 <range val="7680"/>
 <damageDownDistance val="3000"/>
 <returnForce val="3000000"/>
-<force val="3000000"/>
+<force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="5000"/>
 <particleDamage val="8"/>
@@ -1892,7 +1892,7 @@
 <range val="7680"/>
 <damageDownDistance val="3000"/>
 <returnForce val="3000000"/>
-<force val="3000000"/>
+<force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="5000"/>
 <particleDamage val="9"/>
@@ -1906,7 +1906,7 @@
 <range val="7680"/>
 <damageDownDistance val="2000"/>
 <returnForce val="3000000"/>
-<force val="3000000"/>
+<force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="5000"/>
 <particleDamage val="10"/>
@@ -1920,7 +1920,7 @@
 <range val="500000"/>
 <damageDownDistance val="2000"/>
 <returnForce val="5500000"/>
-<force val="3000000"/>
+<force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="3500"/>
 <particleDamage val="48"/>
@@ -1934,7 +1934,7 @@
 <range val="500000"/>
 <damageDownDistance val="2000"/>
 <returnForce val="5500000"/>
-<force val="3000000"/>
+<force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="3800"/>
 <particleDamage val="53"/>
@@ -1948,7 +1948,7 @@
 <range val="500000"/>
 <damageDownDistance val="2000"/>
 <returnForce val="5500000"/>
-<force val="3000000"/>
+<force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="4000"/>
 <particleDamage val="57"/>
@@ -1962,7 +1962,7 @@
 <range val="500000"/>
 <damageDownDistance val="2000"/>
 <returnForce val="5500000"/>
-<force val="3000000"/>
+<force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="4500"/>
 <particleDamage val="62"/>
