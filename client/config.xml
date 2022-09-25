@@ -4,7 +4,7 @@
 		<maps>
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
 	<map name="2042 (Snow)" xml="2042Z.xml" preview="2042Z.jpg"/>
-	<!-- map name="2008 Tanks" xml="2008tanks.xml" preview="2008tanks.jpg"/-->
+	<map name="2008 Tanks" xml="2008tanks.xml" preview="2008tanks.jpg"/>
 	<map name="Abyss" xml="besdna.xml" preview="besdna.jpg"/>
 	<map name="Abyss (Moon)" xml="lunbesdna.xml" preview="lunbesdna.jpg"/>
 	<map name="Angars" xml="angar.xml" preview="angar.jpg"/>
@@ -1282,7 +1282,7 @@
 		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="476543"/>
 		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="665436"/>
 		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="865436"/>
-		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="1276532"/>
+		<turret path="data/turrets/gauss/prime1/" name="Smoky XT" price="1276532"/>
 		
 		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="98045"/>
 		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="932586"/>
