@@ -2,6 +2,7 @@
 	<settings ip="5.249.161.250" port="5482"/>
 	<?settings ip="5.249.161.250" port="5482"?>
 		<maps>
+	<map name="Graveyard" xml="Graveyard.xml" preview="Graveyard.jpg"/>
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
 	<map name="2042 (Snow)" xml="2042Z.xml" preview="2042Z.jpg"/>
 	<map name="2008 Tanks" xml="2008tanks.xml" preview="2008tanks.jpg"/>
@@ -1293,7 +1294,7 @@
 		<colormap path="data/colormaps/Mishin870/" name="Devil" price="0"/>
 		<colormap path="data/colormaps/tester/" name="Tester" price="0"/>
 		<colormap path="data/colormaps/green/" name="Green" price="0"/>
-		<colormap path="data/colormaps/listopad/" name="Ukraine" price="0"/>
+		<colormap path="data/colormaps/halloween/" name="Holiday" price="0"/>
 		<colormap path="data/colormaps/red/" name="Red" price="75"/>
 		<colormap path="data/colormaps/blue/" name="Blue" price="75"/>
 		<colormap path="data/colormaps/black/" name="Black" price="75"/>
@@ -1386,7 +1387,7 @@
 			<description name="Devil" text="data/colormaps/Mishin870/preview.png;"/>
 			<description name="Tester" text="data/colormaps/tester/preview.png;Mechanic Coating is based on principles developed by Nikola Tesla himself. Metal wrenches placed on carbon plates along a special grid of coordinates, under the influence of current, create a magnetic resonance field with properties not fully understood. The coating is installed on special test tanks, the pilots of which voluntarily participate in experiments, risking their lives for the benefit of future generations. The paint protects against: smokey - 25%. Twins - 25%. Flamethrower - 25%"/>
 			<description name="Green" text="data/colormaps/green/preview.png;More like a tribute to the traditions of classic tank building, this uncomplicated color, so beloved by designers around the world, has become a kind of standard for factory models. This legendary color is often returned true connoisseurs, having tried everything in the world."/>
-			<description name="Ukraine" text="data/colormaps/ukraine/preview.png;This paint has been added as a support to all Ukrainian people who are now fighting against Russian occupants. Слава Україні!"/>
+			<description name="Holiday" text="data/colormaps/halloween/preview.png;This paint has been added as a support to all Ukrainian people who are now fighting against Russian occupants. Слава Україні!"/>
 			<description name="Red" text="data/colormaps/red/preview.png;Red is the color of rage and courage, and also has a natural practicality, allowing you to delicately hide enemy blood stains that inevitably appear on the hull, no matter how careful you are ."/>
 			<description name="Blue" text="data/colormaps/blue/preview.png;This coloration was kept on the official list as a memory of the failed Som amphibious tank project. As conceived by the designers, he was supposed to move along the beds of shallow rivers, and, thanks to the blue color, freely penetrate into the deep enemy rear, remaining unnoticed."/>
 			<description name="Black" text="data/colormaps/black/preview.png;This coloring has become the unspoken standard for sabotage tank divisions whose main task is to covertly penetrate enemy territory at night. In army circles, tanks from such elite divisions are enviously called black spots of death behind their backs."/>
@@ -1400,7 +1401,7 @@
                         <description name="Metallic" text="data/colormaps/metallic/preview.png;There is an erroneous opinion that this coloring is used in conditions of shortage of paints and varnishes. In fact, this is a special coating that reflects light in a special way. Glare noise, created by such a coating interferes with the operation of some guidance systems."/>                        
                         <description name="Lava" text="data/colormaps/lava/preview.png;An experimental color first tested during local conflicts in East Africa. According to army psychologists, this coloring is capable of shocking representatives of some radical religious organizations, causing they have a panicky fear of inferno."/>
                         <description name="Lead" text="data/colormaps/sv/preview.png;Lead is the most reliable protection against radiation, it was known back in the twentieth century. Lead-coated armor effectively protects the tanker's reproductive system from radiation, allowing you to stay alert spirit even in the most hot alterations!"/>			
-                        <description name="Safari" text="data/colormaps/safar/preview.png;Very stylish colormap for mods. Rare."/>                        
+                        <description name="Safari" text="data/colormaps/safar/preview.png;A paint that protects against Isida beams. Good for short-range battles. Gives tanks a zebra-like look."/>                        
                         <description name="Dragon" text="data/colormaps/drak/preview.png;This intricate composite skin is based on dragon scales, each scale hand-painted onto titanium-reinforced armor."/>                        
                         <description name="Mary" text="data/colormaps/me/preview.png;Stained with blood-red spots, the tank should terrify the enemy, instilling primal horror in him. Although experienced tankers know that there is no blood on the hull at all , but splashes of tomato juice. No wonder the paint is called Mary."/>
                         <description name="Storm" text="data/colormaps/bu/preview.png;Dye with protection against three guns. Good resistance to the Flamethrower and a small reduction in the damage of Freeze and Hammer. Can only be useful at close range. Has a masking natural texture and makes the tank more inconspicuous."/>
