@@ -3,7 +3,6 @@
 	<?settings ip="5.249.161.250" port="5482"?>
 		<maps>
 	<!--map name="Graveyard" xml="Graveyard.xml" preview="Graveyard.jpg"/-->
-	<map name="New year 2023" xml="2011.xml" preview="2011.jpg"/>
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
 	<map name="2042 (Snow)" xml="2042Z.xml" preview="2042Z.jpg"/>
 	<map name="2008 Tanks" xml="2008tanks.xml" preview="2008tanks.jpg"/>
@@ -128,6 +127,13 @@
 	<map name="Wolfenstein" xml="Вольфенштейн.xml" preview="Вольфенштейн.jpg"/>
 	<map name="Zone" xml="Зона.xml" preview="Зона.jpg"/>
 	</maps>
+	<numerics>
+		<numeric name="Repair Kit" url="data/numerics/heal.png" price="112"/>
+		<numeric name="Double Armor" url="data/numerics/armor.png" price="37"/>
+		<numeric name="Double Damage" url="data/numerics/damage.png" price="37"/>
+		<numeric name="Speed Boost" url="data/numerics/n2o.png" price="37"/>
+		<numeric name="Mine" url="data/numerics/mine.png" price="37"/>
+	</numerics>
 	<hulls>
 		<hull path="data/hulls/hunter/m0/" name="Hunter" price="0"/>
 		<hull path="data/hulls/hunter/m1/" name="Hunter" price="35"/>
@@ -1347,13 +1353,6 @@
                 <colormap path="data/colormaps/tina/" name="Clay" price="187000"/>
 				<colormap path="data/colormaps/all/" name="Lord" price="0"/>
 	</colormaps>
-	<numerics>
-		<numeric name="Repair Kit" url="data/numerics/heal.png" price="112"/>
-		<numeric name="Double Armor" url="data/numerics/armor.png" price="37"/>
-		<numeric name="Double Damage" url="data/numerics/damage.png" price="37"/>
-		<numeric name="Speed Boost" url="data/numerics/n2o.png" price="37"/>
-		<numeric name="Mine" url="data/numerics/mine.png" price="37"/>
-	</numerics>
 	<descriptions>
 		<turrets>
 			<description name="Smoky" text="data/turrets/smoky/m0/preview.png;Medium caliber tank gun, which is used in light and training tanks. The key to its popularity is low price and ease of maintenance. Put it on a light hull and use wearing-out strategy against heavy clumsy tanks of your opponents. Several upgrades can significantly increase the damage dealt by this baby. Remember that Smoky's effectiveness decreases with distance."/>
