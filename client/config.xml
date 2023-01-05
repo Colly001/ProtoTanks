@@ -120,8 +120,6 @@
 	<map name="Tribute" xml="Трибьют.xml" preview="Трибьют.jpg"/>
 	<map name="United Empire" xml="Area_957.xml" preview="Area_957.jpg"/>
 	<map name="Valley" xml="Долина.xml" preview="Долина.jpg"/>
-	<!--<map name="Virys II" xml="virys.xml" preview="virys.jpg"/>
-	<map name="Virys" xml="virys.xml" preview="virys.jpg"/> --->
 	<map name="Vokzal" xml="Vokzal.xml" preview="Vokzal.jpg"/>
 	<map name="Wave" xml="Волна.xml" preview="Волна.jpg"/>
 	<map name="Wolfenstein" xml="Вольфенштейн.xml" preview="Вольфенштейн.jpg"/>
