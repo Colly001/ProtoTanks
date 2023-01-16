@@ -1591,7 +1591,7 @@
 <image id="isidaHealShaft3" url="isida/3/heal_shaft.png"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
-<image id="box_gold" url="bonus/goldsnow.jpg"/>
+<image id="box_gold" url="bonus/gold.jpg"/>
 <image id="box_med" url="bonus/med.jpg"/>
 <image id="box_nos" url="bonus/nos.jpg"/>
 <image id="box_shot" url="bonus/shot.jpg"/>
