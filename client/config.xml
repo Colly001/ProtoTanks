@@ -1,6 +1,6 @@
 ﻿<config>
-	<settings ip="104.35.217.76" port="5482"/>
-	<?settings ip="5.249.161.250" port="5482"?>
+	<settings ip="89.137.133.251" port="5482"/>
+	<?settings ip="104.35.217.76" port="5482"?>
 		<maps>
 	<!--map name="Graveyard" xml="Graveyard.xml" preview="Graveyard.jpg"/-->
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
