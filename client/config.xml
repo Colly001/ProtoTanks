@@ -1299,7 +1299,7 @@
 		<colormap path="data/colormaps/Mishin870/" name="Devil" price="0"/>
 		<colormap path="data/colormaps/tester/" name="Tester" price="0"/>
 		<colormap path="data/colormaps/green/" name="Green" price="0"/>
-		<colormap path="https://raw.githubusercontent.com/Colly001/ProtoTanks/main/client/data/colormaps/valentines/" name="Holiday" price="0"/>
+		<colormap path="https://raw.githubusercontent.com/Colly001/ProtoTanks/main/client/data/colormaps/holiday/" name="Holiday" price="0"/>
 		<colormap path="data/colormaps/red/" name="Red" price="75"/>
 		<colormap path="data/colormaps/blue/" name="Blue" price="75"/>
 		<colormap path="data/colormaps/black/" name="Black" price="75"/>
@@ -1589,6 +1589,34 @@
 <image id="isidaHealEnd3" url="isida/3/heal_end.png"/>
 <image id="isidaDamageShaft3" url="isida/3/damage_shaft.png"/>
 <image id="isidaHealShaft3" url="isida/3/heal_shaft.png"/>
+<image id="isidaIdleSpark4" url="isida/0/idle_spark.png"/>
+<image id="isidaDamageStart4" url="isida/0/damage_start.png"/>
+<image id="isidaHealStart4" url="isida/0/heal_start.png"/>
+<image id="isidaDamageEnd4" url="isida/0/damage_end.png"/>
+<image id="isidaHealEnd4" url="isida/0/heal_end.png"/>
+<image id="isidaDamageShaft4" url="isida/0/damage_shaft.png"/>
+<image id="isidaHealShaft4" url="isida/0/heal_shaft.png"/>
+<image id="isidaIdleSpark5" url="isida/1/idle_spark.png"/>
+<image id="isidaDamageStart5" url="isida/1/damage_start.png"/>
+<image id="isidaHealStart5" url="isida/1/heal_start.png"/>
+<image id="isidaDamageEnd5" url="isida/1/damage_end.png"/>
+<image id="isidaHealEnd5" url="isida/1/heal_end.png"/>
+<image id="isidaDamageShaft5" url="isida/1/damage_shaft.png"/>
+<image id="isidaHealShaft5" url="isida/1/heal_shaft.png"/>
+<image id="isidaIdleSpark6" url="isida/2/idle_spark.png"/>
+<image id="isidaDamageStart6" url="isida/2/damage_start.png"/>
+<image id="isidaHealStart6" url="isida/2/heal_start.png"/>
+<image id="isidaDamageEnd6" url="isida/2/damage_end.png"/>
+<image id="isidaHealEnd6" url="isida/2/heal_end.png"/>
+<image id="isidaDamageShaft6" url="isida/2/damage_shaft.png"/>
+<image id="isidaHealShaft6" url="isida/2/heal_shaft.png"/>
+<image id="isidaIdleSpark7" url="isida/3/idle_spark.png"/>
+<image id="isidaDamageStart7" url="isida/3/damage_start.png"/>
+<image id="isidaHealStart7" url="isida/3/heal_start.png"/>
+<image id="isidaDamageEnd7" url="isida/3/damage_end.png"/>
+<image id="isidaHealEnd7" url="isida/3/heal_end.png"/>
+<image id="isidaDamageShaft7" url="isida/3/damage_shaft.png"/>
+<image id="isidaHealShaft7" url="isida/3/heal_shaft.png"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
 <image id="box_gold" url="bonus/gold.jpg"/>
@@ -2235,7 +2263,7 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="99"/>
+<damage val="12"/>
 <maxDamage val="12"/>
 <minDamage val="12"/>
 <range1 val="1400"/>
@@ -2252,7 +2280,7 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="99"/>
+<damage val="14"/>
 <maxDamage val="14"/>
 <minDamage val="14"/>
 <range1 val="1400"/>
@@ -2269,7 +2297,7 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="99"/>
+<damage val="18"/>
 <maxDamage val="18"/>
 <minDamage val="18"/>
 <range1 val="1400"/>
@@ -2286,7 +2314,75 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="99"/>
+<damage val="24"/>
+<maxDamage val="24"/>
+<minDamage val="24"/>
+<range1 val="1400"/>
+<range2 val="2000"/>
+</profile>
+<profile id="m4">
+<idleSpark id="isidaIdleSpark0"/>
+<damageStart id="isidaDamageStart0"/>
+<healStart id="isidaHealStart0"/>
+<damageEnd id="isidaDamageEnd0"/>
+<healEnd id="isidaHealEnd0"/>
+<damageShaft id="isidaDamageShaft0" w="100" h="500"/>
+<healShaft id="isidaHealShaft0" w="100" h="500"/>
+<delay val="40"/>
+<delay2 val="100"/>
+<turretSpeed val="1.3"/>
+<damage val="74"/>
+<maxDamage val="12"/>
+<minDamage val="12"/>
+<range1 val="1400"/>
+<range2 val="2000"/>
+</profile>
+<profile id="m5">
+<idleSpark id="isidaIdleSpark1"/>
+<damageStart id="isidaDamageStart1"/>
+<healStart id="isidaHealStart1"/>
+<damageEnd id="isidaDamageEnd1"/>
+<healEnd id="isidaHealEnd1"/>
+<damageShaft id="isidaDamageShaft1" w="100" h="500"/>
+<healShaft id="isidaHealShaft1" w="100" h="500"/>
+<delay val="40"/>
+<delay2 val="100"/>
+<turretSpeed val="1.3"/>
+<damage val="14"/>
+<maxDamage val="99"/>
+<minDamage val="14"/>
+<range1 val="1400"/>
+<range2 val="2000"/>
+</profile>
+<profile id="m6">
+<idleSpark id="isidaIdleSpark2"/>
+<damageStart id="isidaDamageStart2"/>
+<healStart id="isidaHealStart2"/>
+<damageEnd id="isidaDamageEnd2"/>
+<healEnd id="isidaHealEnd2"/>
+<damageShaft id="isidaDamageShaft2" w="100" h="500"/>
+<healShaft id="isidaHealShaft2" w="100" h="500"/>
+<delay val="40"/>
+<delay2 val="100"/>
+<turretSpeed val="1.3"/>
+<damage val="118"/>
+<maxDamage val="18"/>
+<minDamage val="18"/>
+<range1 val="1400"/>
+<range2 val="2000"/>
+</profile>
+<profile id="m7">
+<idleSpark id="isidaIdleSpark3"/>
+<damageStart id="isidaDamageStart3"/>
+<healStart id="isidaHealStart3"/>
+<damageEnd id="isidaDamageEnd3"/>
+<healEnd id="isidaHealEnd3"/>
+<damageShaft id="isidaDamageShaft3" w="100" h="500"/>
+<healShaft id="isidaHealShaft3" w="100" h="500"/>
+<delay val="40"/>
+<delay2 val="100"/>
+<turretSpeed val="1.3"/>
+<damage val="134"/>
 <maxDamage val="24"/>
 <minDamage val="24"/>
 <range1 val="1400"/>
