@@ -1,0 +1,95 @@
+<map version="1.0.Light">
+  <skybox val="16"/> <static-geometry>
+    <prop library-name="TanksMap" group-name="default" name="Builds1">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>builds_1</texture-name>
+      <position>
+        <x>-512.000</x>
+        <y>-3234.000</y>
+        <z>400.000</z>
+      </position>
+    </prop>
+    <prop library-name="TanksMap" group-name="default" name="Part2">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>part_2</texture-name>
+      <position>
+        <x>1000.000</x>
+        <y>-1750.000</y>
+        <z>300.000</z>
+      </position>
+    </prop>
+    <prop library-name="TanksMap" group-name="default" name="River">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>river</texture-name>
+      <position>
+        <x>408.000</x>
+        <y>-520.000</y>
+        <z>300.000</z>
+      </position>
+    </prop>
+    <prop library-name="TanksMap" group-name="default" name="Builds2">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>builds_2</texture-name>
+      <position>
+        <x>324.000</x>
+        <y>-1695.000</y>
+        <z>570.000</z>
+      </position>
+    </prop>
+    <prop library-name="TanksMap" group-name="default" name="Outer">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>outer_ar</texture-name>
+      <position>
+        <x>-2334.000</x>
+        <y>-2190.000</y>
+        <z>400.000</z>
+      </position>
+    </prop>
+    <prop library-name="TanksMap" group-name="default" name="Part1">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>part_1</texture-name>
+      <position>
+        <x>-1205.000</x>
+        <y>-756.000</y>
+        <z>300.000</z>
+      </position>
+    </prop>
+    <prop library-name="TanksMap" group-name="default" name="Tran">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>transmat</texture-name>
+      <position>
+        <x>1000.000</x>
+        <y>-2830.000</y>
+        <z>570.000</z>
+      </position>
+    </prop>
+  </static-geometry>
+  <collision-geometry/>
+  <spawn-points>
+    <spawn-point type="dm">
+      <rotation>
+        <z>0.000</z>
+      </rotation>
+      <position>
+        <x>733.717</x>
+        <y>-2658.542</y>
+        <z>1350.000</z>
+      </position>
+    </spawn-point>
+  </spawn-points>
+  <bonus-regions/>
+</map>
