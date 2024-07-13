@@ -1,6 +1,12 @@
 ﻿<config>
-	<settings ip="185.239.237.116" port="5482"/>
-	<?settings ip="127.0.0.1" port="5482"?>
+	<settings ip="141.94.99.122" port="51000"/>
+	<server address="141.94.99.122">
+        <ports>
+            <port>443</port>
+            <port>80</port>
+        </ports>
+    </server>
+	<?settings ip="127.0.0.1" port="51000"?>
 		<maps>
 	<!--map name="Graveyard" xml="Graveyard.xml" preview="Graveyard.jpg"/-->
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
@@ -9,63 +15,64 @@
 	<map name="Abyss" xml="besdna.xml" preview="besdna.jpg"/>
 	<map name="Abyss (Moon)" xml="lunbesdna.xml" preview="lunbesdna.jpg"/>
 	<map name="Angars" xml="angar.xml" preview="angar.jpg"/>
-	<map name="Arena" xml="Арена.xml" preview="Арена.jpg"/>
-	<map name="Arena (Snow)" xml="АРЕНАЗ.xml" preview="АРЕНАЗ.jpg"/>
-	<map name="Astrella" xml="Астрелла.xml" preview="Астрелла.jpg"/>
-	<map name="Atra" xml="Атра.xml" preview="Атра.jpg"/>
-	<map name="Atra (Snow)" xml="АТРАЗ.xml" preview="АТРАЗ.jpg"/>
-	<map name="Atra II" xml="Атра II.xml" preview="Атра II.jpg"/>
-	<map name="Atra II (Snow)" xml="АТРА2З.xml" preview="АТРА2З.jpg"/>
+	<map name="Arena" xml="arena.xml" preview="arena.jpg"/>
+	<map name="Arena (Snow)" xml="arenasnow.xml" preview="arenasnow.jpg"/>
+	<map name="Astrella" xml="astrella.xml" preview="astrella.jpg"/>
+	<map name="Atra" xml="atra.xml" preview="atra.jpg"/>
+	<map name="Atra (Snow)" xml="atrasnow.xml" preview="atrasnow.jpg"/>
+	<map name="Atra II" xml="atra2.xml" preview="atra2.jpg"/>
+	<map name="Atra II (Snow)" xml="atra2snow.xml" preview="atra2snow.jpg"/>
+	<map name="Babylon" xml="Babylon.xml" preview="Babylon.jpg"/>
 	<map name="Barda" xml="Barda.xml" preview="Barda.jpg"/>
-	<map name="Berlin" xml="Берлин.xml" preview="Берлин.jpg"/>
-	<map name="Bobruisk (Snow)" xml="БОБРУЙСКЗ.xml" preview="БОБРУЙСКЗ.jpg"/>
-	<map name="Bobruisk" xml="Бобруйск.xml" preview="Бобруйск.jpg"/>
+	<map name="Berlin" xml="berlin.xml" preview="berlin.jpg"/>
+	<map name="Bobruisk" xml="bobruisk.xml" preview="bobruisk.jpg"/>
+	<map name="Bobruisk (Snow)" xml="bobruisksnow.xml" preview="bobruisksnow.jpg"/>
 	<map name="Boombox" xml="Boombox.xml" preview="Boombox.jpg"/>
-	<map name="Brest II" xml="Брест II.xml" preview="Брест II.jpg"/>
-	<map name="Brest" xml="Брест.xml" preview="Брест.jpg"/>
-	<map name="Bridge II" xml="Мостик2.xml" preview="Мостик2.jpg"/>
-	<map name="Bridge" xml="Мостик.xml" preview="Мостик.jpg"/>
-	<map name="Bridges" xml="Мосты.xml" preview="Мосты.jpg"/>
-	<map name="Camp" xml="Лагерь.xml" preview="Лагерь.jpg"/>
-	<map name="Canyon" xml="Каньон.xml" preview="Каньон.jpg"/>
+	<map name="Brest" xml="brest.xml" preview="brest.jpg"/>
+	<map name="Brest II" xml="brest2.xml" preview="brest2.jpg"/>
+	<map name="Bridge" xml="bridge.xml" preview="bridge.jpg"/>
+	<map name="Bridge II" xml="bridge2.xml" preview="bridge2.jpg"/>
+	<map name="Bridges" xml="bridges.xml" preview="bridges.jpg"/>
+	<map name="Camp" xml="cmp.xml" preview="cmp.jpg"/>
+	<map name="Canyon" xml="canyon.xml" preview="canyon.jpg"/>
 	<map name="Cave" xml="Pesheri.xml" preview="Pesheri.jpg"/>
-	<map name="Chernobyl" xml="Чернобыль.xml" preview="Чернобыль.jpg"/>
-	<map name="Confrontation" xml="Противостояние.xml" preview="Противостояние.jpg"/>
+	<map name="Chernobyl" xml="chernobyl.xml" preview="chernobyl.jpg"/>
 	<map name="Containers" xml="Konteynery.xml" preview="Konteynery.jpg"/>
-	<map name="Courage" xml="Кураж.xml" preview="Кураж.jpg"/>
+	<map name="Courage" xml="courage.xml" preview="courage.jpg"/>
 	<map name="Crash" xml="crash.xml" preview="crash.jpg"/>
-	<map name="Crossroads" xml="Перекрёсток.xml" preview="Перекрёсток.jpg"/>
-	<map name="Deathtrack" xml="Трек.xml" preview="Трек.jpg"/>
+	<map name="Crossroads" xml="cross.xml" preview="cross.jpg"/>
+	<map name="Deathtrack" xml="deathtrack.xml" preview="deathtrack.jpg"/>
 	<map name="Deck-9" xml="p9.xml" preview="p9.jpg"/>
 	<map name="Desert" xml="Pustina.xml" preview="Pustina.jpg"/>
-	<map name="Duality" xml="Дуалити.xml" preview="Дуалити.jpg"/>
+	<map name="Duality" xml="duality.xml" preview="duality.jpg"/>
 	<map name="Duel" xml="du.xml" preview="du.jpg"/>
 	<map name="Dusseldorf" xml="dus.xml" preview="dus.jpg"/>
-	<map name="Esplanade" xml="Эспаланда.xml" preview="Эспаланда.jpg"/>
-	<map name="Farm" xml="Ферма.xml" preview="Ферма.jpg"/>
+	<map name="Esplanade" xml="esplanade.xml" preview="esplanade.jpg"/>
+	<map name="Farm" xml="farm.xml" preview="farm.jpg"/>
 	<map name="Football" xml="Fotball.xml" preview="Fotball.jpg"/>
-	<map name="Forest" xml="Форест.xml" preview="Форест.jpg"/>
-	<map name="Fort Knox II" xml="Форт Нокс II.xml" preview="Форт Нокс II.jpg"/>
-	<map name="Fort Knox III" xml="fort3.xml" preview="fort3.jpg"/>
+	<map name="Forest" xml="forest.xml" preview="forest.jpg"/>
 	<map name="Fort Knox" xml="fort.xml" preview="fort.jpg"/>
+	<map name="Fort Knox II" xml="fort2.xml" preview="fort2.jpg"/>
+	<map name="Fort Knox III" xml="fort3.xml" preview="fort3.jpg"/>
 	<map name="Gallery" xml="Gallery.xml" preview="Gallery.jpg"/>
-	<map name="Garder" xml="Гардер.xml" preview="Гардер.jpg"/>
-	<map name="Gladiator" xml="Гладиатор.xml" preview="Гладиатор.jpg"/>
+	<map name="Garder" xml="garder.xml" preview="garder.jpg"/>
+	<map name="Gladiator" xml="gladiator.xml" preview="gladiator.jpg"/>
 	<map name="Gorodok" xml="Gorodok.xml" preview="Gorodok.jpg"/>
 	<map name="Gravity" xml="gravity.xml" preview="gravity.jpg"/>
 	<map name="Gubakha" xml="gubaxa.xml" preview="gubaxa.jpg"/>
-	<map name="Highland II" xml="plato2.xml" preview="plato2.jpg"/>
 	<map name="Highland" xml="plato.xml" preview="plato.jpg"/>
-	<map name="Highway" xml="Шоссе.xml" preview="Шоссе.jpg"/>
-	<map name="Hill" xml="пипец.xml" preview="пипец.jpg"/>
-	<map name="Industrial Zone" xml="Промзона.xml" preview="Промзона.jpg"/>
+	<map name="Highland II" xml="plato2.xml" preview="plato2.jpg"/>
+	<map name="Highway" xml="highway.xml" preview="highway.jpg"/>
+	<map name="Hill" xml="hill.xml" preview="hill.jpg"/>
+	<map name="Industrial Zone" xml="indus.xml" preview="indus.jpg"/>
 	<map name="Iran" xml="iran.xml" preview="iran.jpg"/>
-	<map name="Island (Snow)" xml="ostrovZim.xml" preview="ostrovZim.jpg"/>
 	<map name="Island" xml="Ostrov.xml" preview="Ostrov.jpg"/>
+	<map name="Island (Snow)" xml="ostrovZim.xml" preview="ostrovZim.jpg"/>
 	<map name="Kibersport" xml="Kibersport.xml" preview="Kibersport.jpg"/>
 	<map name="Kingdom" xml="Kingdom.xml" preview="Kingdom.jpg"/>
-	<map name="Kolhoz" xml="Колхоз.xml" preview="Колхоз.jpg"/>
+	<map name="Kolhoz" xml="koloz.xml" preview="koloz.jpg"/>
 	<map name="Kungur" xml="kungur.xml" preview="kungur.jpg"/>
+	<map name="Kungur II" xml="kungur2.xml" preview="kungur2.jpg"/>
 	<map name="Kurenkovsk" xml="kyrenkovsk.xml" preview="kyrenkovsk.jpg"/>
 	<map name="Labyrinth" xml="Lab.xml" preview="Lab.jpg"/>
 	<map name="Legacy" xml="Legacy.xml" preview="Legacy.jpg"/>
@@ -73,57 +80,58 @@
 	<map name="Lost Temple" xml="Temlp.xml" preview="Temlp.jpg"/>
 	<map name="Madness (Moon)" xml="crazys.xml" preview="crazys.jpg"/>
 	<map name="Madness" xml="crazy.xml" preview="crazy.jpg"/>
-	<map name="Magadan" xml="Магадан.xml" preview="Магадан.jpg"/>
-	<map name="Magistral" xml="Магистраль.xml" preview="Магистраль.jpg"/>
+	<map name="Magadan" xml="magadan.xml" preview="magadan.jpg"/>
+	<map name="Magistral" xml="magistral.xml" preview="magistral.jpg"/>
 	<map name="Massacre" xml="boina.xml" preview="boina.jpg"/>
 	<map name="Mini Brest" xml="0.xml" preview="0.jpg"/>
 	<map name="Mishin870" xml="Mishin870.xml" preview="Mishin870.jpg"/>
-	<map name="Molotov" xml="Молотов.xml" preview="Молотов.jpg"/>
+	<map name="Molotov" xml="molotov.xml" preview="molotov.jpg"/>
 	<map name="Monte-Carlo" xml="mc.xml" preview="mc.jpg"/>
-	<map name="Noise" xml="Шум.xml" preview="Шум.jpg"/>
-	<map name="Novel" xml="Новэл.xml" preview="Новэл.jpg"/>
-	<map name="Osa" xml="Оса.xml" preview="Оса.jpg"/>
-	<map name="Parma" xml="Парма.xml" preview="Парма.jpg"/>
+	<map name="Noise" xml="noise.xml" preview="noise.jpg"/>
+	<map name="Novel" xml="novel.xml" preview="novel.jpg"/>
+	<map name="Osa" xml="osa.xml" preview="osa.jpg"/>
+	<map name="Opposition" xml="opposit.xml" preview="opposit.jpg"/>
+	<map name="Parma" xml="parma.xml" preview="parma.jpg"/>
+	<map name="Pass" xml="pass.xml" preview="pass.jpg"/>
 	<map name="Pass (Snow)" xml="perevZim.xml" preview="perevZim.jpg"/>
-	<map name="Pass" xml="Перевал.xml" preview="Перевал.jpg"/>
-	<map name="Pedestal" xml="Пьедестал.xml" preview="Пьедестал.jpg"/>
+	<map name="Pedestal" xml="pedestal.xml" preview="pedestal.jpg"/>
 	<map name="Persia" xml="Persia.xml" preview="Persia.jpg"/>
 	<map name="Ping-Pong" xml="pp.xml" preview="pp.jpg"/>
-	<map name="Polygon (Snow)" xml="poligonZim.xml" preview="poligonZim.jpg"/>
 	<map name="Polygon" xml="Polygon.xml" preview="Polygon.jpg"/>
-	<map name="Port" xml="ПОРТ.xml" preview="ПОРТ.jpg"/>
+	<map name="Polygon (Snow)" xml="poligonZim.xml" preview="poligonZim.jpg"/>
+	<map name="Port" xml="port.xml" preview="port.jpg"/>
 	<map name="Race" xml="Unknown.xml" preview="Unknown.jpg"/>
-	<map name="Railway Station (Snow)" xml="Вокзал (зима).xml" preview="Вокзал (зима).jpg"/>
+	<map name="Railway Station (Snow)" xml="railwaysnow.xml" preview="railwaysnow.jpg"/>
 	<map name="Ravine" xml="Ovrag.xml" preview="Ovrag.jpg"/>
-	<map name="Red Alert" xml="Ред Алерт.xml" preview="Ред Алерт.jpg"/>
-	<map name="Rift" xml="Ущелье.xml" preview="Ущелье.jpg"/>
+	<map name="Red Alert" xml="redalert.xml" preview="redalert.jpg"/>
+	<map name="Rift" xml="rift.xml" preview="rift.jpg"/>
 	<map name="Ruins" xml="Ruins.xml" preview="Ruins.jpg"/>
-	<map name="Sandal" xml="Сандал.xml" preview="Сандал.jpg"/>
+	<map name="Sandal" xml="sandal.xml" preview="sandal.jpg"/>
 	<map name="Sandbox (Snow)" xml="pesz.xml" preview="pesz.jpg"/>
 	<map name="Sandbox 2.0" xml="map.xml" preview="map.jpg"/>
 	<map name="Sandbox" xml="pesok.xml" preview="pesok.jpg"/>
-	<map name="Scope" xml="Простор.xml" preview="Простор.jpg"/>
-	<map name="Serpuhov" xml="Серпухов.xml" preview="Серпухов.jpg"/>
-	<map name="Siege" xml="Осада.xml" preview="Осада.jpg"/>
+	<map name="Scope" xml="scope.xml" preview="scope.jpg"/>
+	<map name="Serpuhov" xml="serpuhov.xml" preview="serpuhov.jpg"/>
+	<map name="Siege" xml="siege.xml" preview="siege.jpg"/>
 	<map name="Silence" xml="silence.xml" preview="silence.jpg"/>
 	<map name="Silence (Moon)" xml="lun.xml" preview="lun.jpg"/>
 	<map name="Silence II" xml="silence2.xml" preview="silence2.jpg"/>
 	<map name="Silence II (Snow)" xml="tish2zim.xml" preview="tish2zim.jpg"/>
-	<map name="Skylark" xml="Жаворонки.xml" preview="Жаворонки.jpg"/>
-	<map name="Solikamsk" xml="Соликамск.xml" preview="Соликамск.jpg"/>
+	<map name="Skylark" xml="skylark.xml" preview="skylark.jpg"/>
+	<map name="Solikamsk" xml="solikmaks.xml" preview="solikmaks.jpg"/>
 	<map name="Stadium" xml="stadium.xml" preview="stadium.jpg"/>
-	<map name="Station" xml="Станция.xml" preview="Станция.jpg"/>
-	<map name="Subway" xml="Подземка.xml" preview="Подземка.jpg"/>
+	<map name="Station" xml="station.xml" preview="station.jpg"/>
+	<map name="Subway" xml="subway.xml" preview="subway.jpg"/>
 	<map name="Test" xml="test.xml" preview="test.jpg"/>
-	<map name="The Colony" xml="Колония.xml" preview="Колония.jpg"/>
+	<map name="The Colony" xml="colony.xml" preview="colony.jpg"/>
 	<map name="Trassa" xml="Trassa.xml" preview="Trassa.jpg"/>
-	<map name="Tribute" xml="Трибьют.xml" preview="Трибьют.jpg"/>
+	<map name="Tribute" xml="tribute.xml" preview="tribute.jpg"/>
 	<map name="United Empire" xml="Area_957.xml" preview="Area_957.jpg"/>
-	<map name="Valley" xml="Долина.xml" preview="Долина.jpg"/>
+	<map name="Valley" xml="valley.xml" preview="valley.jpg"/>
 	<map name="Vokzal" xml="Vokzal.xml" preview="Vokzal.jpg"/>
-	<map name="Wave" xml="Волна.xml" preview="Волна.jpg"/>
-	<map name="Wolfenstein" xml="Вольфенштейн.xml" preview="Вольфенштейн.jpg"/>
-	<map name="Zone" xml="Зона.xml" preview="Зона.jpg"/>
+	<map name="Wave" xml="wave.xml" preview="wave.jpg"/>
+	<map name="Wolfenstein" xml="wolfenstein.xml" preview="wolfenstein.jpg"/>
+	<map name="Zone" xml="zone.xml" preview="zone.jpg"/>
 	</maps>
 	<numerics>
 		<numeric name="Repair Kit" url="data/numerics/heal.png" price="112"/>
@@ -898,11 +906,11 @@
 		</profile>
      <!--JUGGER-->
 		<profile>
-			<Macca>1500</Macca>
+			<Macca>1300</Macca>
 			<Демпфирование>1000</Демпфирование>
-			<Двигатель>200000</Двигатель>
-			<ПередняяСкорость>800</ПередняяСкорость>
-			<ЗадняяСкорость>880</ЗадняяСкорость>
+			<Двигатель>300000</Двигатель>
+			<ПередняяСкорость>1257</ПередняяСкорость>
+			<ЗадняяСкорость>1259</ЗадняяСкорость>
 			<PазворотНаМесте>1.27</PазворотНаМесте>
 			<СмещениеТочкиZ>0</СмещениеТочкиZ>
 			<МалаяСилаТрения>50</МалаяСилаТрения>
@@ -1632,6 +1640,7 @@
 </images>
 <weapons>
 <smoky>
+<!--Smoky-->
 <profile id="m0">
 <shot id="smokyShot0"/>
 <explosion id="smokyExplosion0"/>
@@ -1649,7 +1658,7 @@
 <force val="2000000"/>
 <fireDelay val="1900"/>
 <turretSpeed val="1.1"/>
-<maxDamage val="27"/>
+<maxDamage val="30"/>
 <minDamage val="12"/>
 </profile>
 <profile id="m2">
@@ -1659,7 +1668,7 @@
 <force val="2000000"/>
 <fireDelay val="1750"/>
 <turretSpeed val="1.3"/>
-<maxDamage val="30"/>
+<maxDamage val="36"/>
 <minDamage val="13"/>
 </profile>
 <profile id="m3">
@@ -1669,9 +1678,10 @@
 <force val="2000000"/>
 <fireDelay val="1600"/>
 <turretSpeed val="1.5"/>
-<maxDamage val="34"/>
+<maxDamage val="42"/>
 <minDamage val="14"/>
 </profile>
+<!--Thunder-->
 <profile id="m4">
 <shot id="smokyShot4"/>
 <explosion id="smokyExplosion4"/>
@@ -1712,6 +1722,7 @@
 <maxDamage val="50"/>
 <minDamage val="37"/>
 </profile>
+<!--Shaft-->
 <profile id="m8">
 <shot id="smokyShot8"/>
 <explosion id="smokyExplosion8"/>
@@ -1752,6 +1763,7 @@
 <maxDamage val="150"/>
 <minDamage val="100"/>
 </profile>
+<!--Snowman-->
 <profile id="m12">
 <shot id="smokyShot3"/>
 <explosion id="smokyExplosion3"/>
@@ -1792,6 +1804,7 @@
 <maxDamage val="24"/>
 <minDamage val="8"/>
 </profile>
+<!--Pumkin-->
 <profile id="m16">
 <shot id="smokyShot16"/>
 <explosion id="smokyExplosion16"/>
@@ -1832,6 +1845,7 @@
 <maxDamage val="160"/>
 <minDamage val="145"/>
 </profile>
+<!--Smoky xt-->
 <profile id="m20">
 <shot id="smokyShot16"/>
 <explosion id="smokyExplosion16"/>
@@ -1843,6 +1857,7 @@
 <minDamage val="175"/>
 </profile>
 </smoky>
+<!--fire-->
 <flamethrower>
 <profile id="m0">
 <particles id="flamethrowerParticles0"/>
@@ -1852,7 +1867,7 @@
 <coneHalfAngle val="20"/>
 <maxParticles val="12"/>
 <particleSpeed val="2000"/>
-<particleDamage val="2.3"/>
+<particleDamage val="3.3"/>
 <turretSpeed val="1.45"/>
 </profile>
 <profile id="m1">
@@ -1863,7 +1878,7 @@
 <coneHalfAngle val="20"/>
 <maxParticles val="14"/>
 <particleSpeed val="2000"/>
-<particleDamage val="2.7"/>
+<particleDamage val="4.7"/>
 <turretSpeed val="1.63"/>
 </profile>
 <profile id="m2">
@@ -1874,7 +1889,7 @@
 <coneHalfAngle val="20"/>
 <maxParticles val="18"/>
 <particleSpeed val="2000"/>
-<particleDamage val="3"/>
+<particleDamage val="5.2"/>
 <turretSpeed val="1.95"/>
 </profile>
 <profile id="m3">
@@ -1885,9 +1900,10 @@
 <coneHalfAngle val="20"/>
 <maxParticles val="24"/>
 <particleSpeed val="2000"/>
-<particleDamage val="4"/>
+<particleDamage val="7"/>
 <turretSpeed val="2.55"/>
 </profile>
+<!--frez-->
 <profile id="m4">
 <particles id="flamethrowerParticles4"/>
 <delay val="40"/>
@@ -1895,7 +1911,7 @@
 <range val="1500"/>
 <coneHalfAngle val="20"/>
 <maxParticles val="20"/>
-<particleSpeed val="2000"/>
+<particleSpeed val="2002"/>
 <particleDamage val="4"/>
 <turretSpeed val="1.45"/>
 </profile>
@@ -1906,7 +1922,7 @@
 <range val="1500"/>
 <coneHalfAngle val="20"/>
 <maxParticles val="22"/>
-<particleSpeed val="2000"/>
+<particleSpeed val="2002"/>
 <particleDamage val="6"/>
 <turretSpeed val="1.63"/>
 </profile>
@@ -1917,7 +1933,7 @@
 <range val="1500"/>
 <coneHalfAngle val="20"/>
 <maxParticles val="26"/>
-<particleSpeed val="2000"/>
+<particleSpeed val="2002"/>
 <particleDamage val="7"/>
 <turretSpeed val="1.95"/>
 </profile>
@@ -1928,11 +1944,12 @@
 <range val="1500"/>
 <coneHalfAngle val="20"/>
 <maxParticles val="32"/>
-<particleSpeed val="2000"/>
+<particleSpeed val="2002"/>
 <particleDamage val="8"/>
 <turretSpeed val="2.55"/>
 </profile>
 </flamethrower>
+<!--tuins nigger-->
 <twins>
 <profile id="m0">
 <particles id="plasmaGunParticles0"/>
@@ -2003,7 +2020,7 @@
 <force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="5000"/>
-<particleDamage val="7"/>
+<particleDamage val="9"/>
 <turretSpeed val="1.3"/>
 </profile>
 <profile id="m5">
@@ -2017,7 +2034,7 @@
 <force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="5000"/>
-<particleDamage val="8"/>
+<particleDamage val="12"/>
 <turretSpeed val="1.45"/>
 </profile>
 <profile id="m6">
@@ -2031,7 +2048,7 @@
 <force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="5000"/>
-<particleDamage val="9"/>
+<particleDamage val="15"/>
 <turretSpeed val="1.7"/>
 </profile>
 <profile id="m7">
@@ -2045,7 +2062,7 @@
 <force val="3000001"/>
 <maxParticles val="50"/>
 <particleSpeed val="5000"/>
-<particleDamage val="10"/>
+<particleDamage val="18"/>
 <turretSpeed val="2.1"/>
 </profile>
 <profile id="m8">
@@ -2058,8 +2075,8 @@
 <returnForce val="5500000"/>
 <force val="3000001"/>
 <maxParticles val="50"/>
-<particleSpeed val="3500"/>
-<particleDamage val="48"/>
+<particleSpeed val="6200"/>
+<particleDamage val="130"/>
 <turretSpeed val="2.1"/>
 </profile>
 <profile id="m9">
@@ -2072,8 +2089,8 @@
 <returnForce val="5500000"/>
 <force val="3000001"/>
 <maxParticles val="50"/>
-<particleSpeed val="3800"/>
-<particleDamage val="53"/>
+<particleSpeed val="6300"/>
+<particleDamage val="150"/>
 <turretSpeed val="2.1"/>
 </profile>
 <profile id="m10">
@@ -2086,8 +2103,8 @@
 <returnForce val="5500000"/>
 <force val="3000001"/>
 <maxParticles val="50"/>
-<particleSpeed val="4000"/>
-<particleDamage val="57"/>
+<particleSpeed val="6400"/>
+<particleDamage val="167"/>
 <turretSpeed val="2.1"/>
 </profile>
 <profile id="m11">
@@ -2100,8 +2117,8 @@
 <returnForce val="5500000"/>
 <force val="3000001"/>
 <maxParticles val="50"/>
-<particleSpeed val="4500"/>
-<particleDamage val="62"/>
+<particleSpeed val="6500"/>
+<particleDamage val="180"/>
 <turretSpeed val="2.1"/>
 </profile>
 </twins>
@@ -2116,8 +2133,8 @@
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
 <delay val="6400"/>
-<maxDamage val="38"/>
-<minDamage val="28"/>
+<maxDamage val="60"/>
+<minDamage val="45"/>
 <timePart2 val="350"/>
 <timePart3 val="700"/>
 <turretSpeed val="0.6"/>
@@ -2132,8 +2149,8 @@
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
 <delay val="6200"/>
-<maxDamage val="35"/>
-<minDamage val="31"/>
+<maxDamage val="67"/>
+<minDamage val="51"/>
 <timePart2 val="350"/>
 <timePart3 val="700"/>
 <turretSpeed val="0.7"/>
@@ -2148,8 +2165,8 @@
 <force val="12000000"/>
 <fireReadyDelay val="1100"/>
 <delay val="6000"/>
-<maxDamage val="51"/>
-<minDamage val="40"/>
+<maxDamage val="80"/>
+<minDamage val="56"/>
 <timePart2 val="350"/>
 <timePart3 val="700"/>
 <turretSpeed val="1"/>
@@ -2164,8 +2181,8 @@
 <force val="11000000"/>
 <fireReadyDelay val="1100"/>
 <delay val="3800"/>
-<maxDamage val="80"/>
-<minDamage val="57"/>
+<maxDamage val="100"/>
+<minDamage val="79"/>
 <timePart2 val="350"/>
 <timePart3 val="700"/>
 <turretSpeed val="1.3"/>
@@ -2263,9 +2280,9 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="12"/>
-<maxDamage val="12"/>
-<minDamage val="12"/>
+<damage val="10"/>
+<maxDamage val="10"/>
+<minDamage val="10"/>
 <range1 val="1400"/>
 <range2 val="2000"/>
 </profile>
@@ -2280,9 +2297,9 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="14"/>
-<maxDamage val="14"/>
-<minDamage val="14"/>
+<damage val="12"/>
+<maxDamage val="12"/>
+<minDamage val="12"/>
 <range1 val="1400"/>
 <range2 val="2000"/>
 </profile>
@@ -2297,9 +2314,9 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="18"/>
-<maxDamage val="18"/>
-<minDamage val="18"/>
+<damage val="15"/>
+<maxDamage val="15"/>
+<minDamage val="15"/>
 <range1 val="1400"/>
 <range2 val="2000"/>
 </profile>
@@ -2314,7 +2331,7 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="24"/>
+<damage val="19"/>
 <maxDamage val="24"/>
 <minDamage val="24"/>
 <range1 val="1400"/>
@@ -2331,7 +2348,7 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="74"/>
+<damage val="34"/>
 <maxDamage val="12"/>
 <minDamage val="12"/>
 <range1 val="1400"/>
@@ -2348,8 +2365,8 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="14"/>
-<maxDamage val="99"/>
+<damage val="54"/>
+<maxDamage val="14"/>
 <minDamage val="14"/>
 <range1 val="1400"/>
 <range2 val="2000"/>
@@ -2365,7 +2382,7 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="118"/>
+<damage val="88"/>
 <maxDamage val="18"/>
 <minDamage val="18"/>
 <range1 val="1400"/>
@@ -2382,7 +2399,7 @@
 <delay val="40"/>
 <delay2 val="100"/>
 <turretSpeed val="1.3"/>
-<damage val="134"/>
+<damage val="114"/>
 <maxDamage val="24"/>
 <minDamage val="24"/>
 <range1 val="1400"/>
