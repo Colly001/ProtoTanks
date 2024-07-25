@@ -177,10 +177,10 @@
 		<hull path="data/hulls/mamont/m3/" name="Mammoth " price="10200"/>
 
 
-		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="75000"/>
-		<hull path="data/hulls/jugger/m1/" name="Hornet Prototype" price="102000"/>
-		<hull path="data/hulls/jugger/m2/" name="Hornet Prototype" price="234000"/>
-		<hull path="data/hulls/jugger/m3/" name="Hornet Prototype" price="500355"/>
+		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="95000"/>
+		<hull path="data/hulls/jugger/m1/" name="Hornet Prototype" price="142000"/>
+		<hull path="data/hulls/jugger/m2/" name="Hornet Prototype" price="264000"/>
+		<hull path="data/hulls/jugger/m3/" name="Hornet Prototype" price="800355"/>
 
 		<hull path="data/hulls/ares/m0/" name="UFO" price="1000"/>
 		<hull path="data/hulls/ares/m1/" name="UFO" price="6075"/>
@@ -1765,8 +1765,8 @@
 </profile>
 <!--Snowman-->
 <profile id="m12">
-<shot id="smokyShot3"/>
-<explosion id="smokyExplosion3"/>
+<shot id="smokyShot12"/>
+<explosion id="smokyExplosion12"/>
 <returnForce val="5000000"/>
 <force val="2000000"/>
 <fireDelay val="1600"/>
@@ -1775,8 +1775,8 @@
 <minDamage val="8"/>
 </profile>
 <profile id="m13">
-<shot id="smokyShot3"/>
-<explosion id="smokyExplosion3"/>
+<shot id="smokyShot12"/>
+<explosion id="smokyExplosion12"/>
 <returnForce val="5000000"/>
 <force val="2000000"/>
 <fireDelay val="1600"/>
@@ -1785,8 +1785,8 @@
 <minDamage val="8"/>
 </profile>
 <profile id="m14">
-<shot id="smokyShot3"/>
-<explosion id="smokyExplosion3"/>
+<shot id="smokyShot12"/>
+<explosion id="smokyExplosion12"/>
 <returnForce val="5000000"/>
 <force val="2000000"/>
 <fireDelay val="1600"/>
@@ -1795,8 +1795,8 @@
 <minDamage val="8"/>
 </profile>
 <profile id="m15">
-<shot id="smokyShot3"/>
-<explosion id="smokyExplosion3"/>
+<shot id="smokyShot12"/>
+<explosion id="smokyExplosion12"/>
 <returnForce val="5000000"/>
 <force val="2000000"/>
 <fireDelay val="1600"/>
