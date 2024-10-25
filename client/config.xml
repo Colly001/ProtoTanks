@@ -8,7 +8,7 @@
     </server>
 	<?settings ip="127.0.0.1" port="51000"?>
 		<maps>
-	<map name="Graveyard" xml="Graveyard.xml" preview="Graveyard.jpg">
+	<map name="Graveyard" xml="Graveyard.xml" preview="Graveyard.jpg"/>
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
 	<map name="2042 (Snow)" xml="2042Z.xml" preview="2042Z.jpg"/>
 	<map name="2008 Tanks" xml="2008tanks.xml" preview="2008tanks.jpg"/>
