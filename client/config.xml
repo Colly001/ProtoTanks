@@ -9,6 +9,7 @@
 	<?settings ip="127.0.0.1" port="51000"?>
 		<maps>
 	<map name="Graveyard" xml="Graveyard.xml" preview="Graveyard.jpg"/>
+	<map name="Graveyard" xml="graveyard2.xml" preview="graveyard2.jpg"/>
 	<map name="2042" xml="2042.xml" preview="2042.jpg"/>
 	<map name="2042 (Snow)" xml="2042Z.xml" preview="2042Z.jpg"/>
 	<map name="2008 Tanks" xml="2008tanks.xml" preview="2008tanks.jpg"/>
@@ -1628,7 +1629,7 @@
 <image id="isidaHealShaft7" url="isida/3/heal_shaft.png"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
-<image id="box_gold" url="bonus/gold.jpg"/>
+<image id="box_gold" url="bonus/goldhalloween.jpg"/>
 <image id="box_med" url="bonus/med.jpg"/>
 <image id="box_nos" url="bonus/nos.jpg"/>
 <image id="box_shot" url="bonus/shot.jpg"/>
