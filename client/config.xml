@@ -1573,7 +1573,6 @@
 <image id="railgunBeam8" url="railgun/8/railgun.png"/>
 <image id="isidaIdleSpark0" url="isida/0/idle_spark.png"/>
 <image id="isidaDamageStart0" url="isida/0/damage_start.png"/>
-<image id="box_gold" url="bonus/goldhalloween.jpg"/>
 <image id="isidaHealStart0" url="isida/0/heal_start.png"/>
 <image id="isidaDamageEnd0" url="isida/0/damage_end.png"/>
 <image id="isidaHealEnd0" url="isida/0/heal_end.png"/>
@@ -1601,6 +1600,7 @@
 <image id="isidaDamageShaft3" url="isida/3/damage_shaft.png"/>
 <image id="isidaHealShaft3" url="isida/3/heal_shaft.png"/>
 <image id="isidaIdleSpark4" url="isida/0/idle_spark.png"/>
+<image id="box_gold" url="bonus/goldhalloween.jpg"/>
 <image id="isidaDamageStart4" url="isida/0/damage_start.png"/>
 <image id="isidaHealStart4" url="isida/0/heal_start.png"/>
 <image id="isidaDamageEnd4" url="isida/0/damage_end.png"/>
