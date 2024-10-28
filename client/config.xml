@@ -1601,7 +1601,6 @@
 <image id="isidaHealShaft3" url="isida/3/heal_shaft.png"/>
 <image id="isidaIdleSpark4" url="isida/0/idle_spark.png"/>
 <image id="isidaDamageStart4" url="isida/0/damage_start.png"/>
-<image id="box_gold" url="bonus/goldhalloween.jpg"/>
 <image id="isidaHealStart4" url="isida/0/heal_start.png"/>
 <image id="isidaDamageEnd4" url="isida/0/damage_end.png"/>
 <image id="isidaHealEnd4" url="isida/0/heal_end.png"/>
@@ -1628,6 +1627,7 @@
 <image id="isidaHealEnd7" url="isida/3/heal_end.png"/>
 <image id="isidaDamageShaft7" url="isida/3/damage_shaft.png"/>
 <image id="isidaHealShaft7" url="isida/3/heal_shaft.png"/>
+<image id="box_gold" url="bonus/goldhalloween.jpg"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
 <image id="box_med" url="bonus/med.jpg"/>
