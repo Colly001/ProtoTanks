@@ -142,39 +142,39 @@
 	</numerics>
 	<hulls>
 		<hull path="data/hulls/hunter/m0/" name="Hunter" price="0"/>
-		<hull path="data/hulls/hunter/m1/" name="Hunter" price="35"/>
-		<hull path="data/hulls/hunter/m2/" name="Hunter" price="105"/>
-		<hull path="data/hulls/hunter/m3/" name="Hunter " price="650"/>
+		<hull path="data/hulls/hunter/m1/" name="Hunter" price="22425"/>
+		<hull path="data/hulls/hunter/m2/" name="Hunter" price="70575"/>
+		<hull path="data/hulls/hunter/m3/" name="Hunter " price="150000"/>
 
         <hull path="data/hulls/wasp/m0/" name="Wasp" price="75"/>
-		<hull path="data/hulls/wasp/m1/" name="Wasp" price="50"/>
-		<hull path="data/hulls/wasp/m2/" name="Wasp" price="150"/>
-		<hull path="data/hulls/wasp/m3/" name="Wasp " price="500"/>
+		<hull path="data/hulls/wasp/m1/" name="Wasp" price="9825"/>
+		<hull path="data/hulls/wasp/m2/" name="Wasp" price="77025"/>
+		<hull path="data/hulls/wasp/m3/" name="Wasp " price="161775"/>
 		
 		<hull path="data/hulls/titan/m0/" name="Titan" price="75"/>
-		<hull path="data/hulls/titan/m1/" name="Titan" price="50"/>
-		<hull path="data/hulls/titan/m2/" name="Titan" price="150"/>
-		<hull path="data/hulls/titan/m3/" name="Titan " price="780"/>
+		<hull path="data/hulls/titan/m1/" name="Titan" price="4500"/>
+		<hull path="data/hulls/titan/m2/" name="Titan" price="69675"/>
+		<hull path="data/hulls/titan/m3/" name="Titan " price="165000"/>
 		
 		<hull path="data/hulls/dictator/m0/" name="Dictator" price="175"/>
-		<hull path="data/hulls/dictator/m1/" name="Dictator" price="250"/>
-		<hull path="data/hulls/dictator/m2/" name="Dictator" price="750"/>
-		<hull path="data/hulls/dictator/m3/" name="Dictator " price="2250"/>
+		<hull path="data/hulls/dictator/m1/" name="Dictator" price="20025"/>
+		<hull path="data/hulls/dictator/m2/" name="Dictator" price="61350"/>
+		<hull path="data/hulls/dictator/m3/" name="Dictator " price="157725"/>
 
 		<hull path="data/hulls/horn/m0/" name="Hornet" price="262"/>
-		<hull path="data/hulls/horn/m1/" name="Hornet" price="675"/>
-		<hull path="data/hulls/horn/m2/" name="Hornet" price="2000"/>
-		<hull path="data/hulls/horn/m3/" name="Hornet " price="6000"/>
+		<hull path="data/hulls/horn/m1/" name="Hornet" price="17325"/>
+		<hull path="data/hulls/horn/m2/" name="Hornet" price="52875"/>
+		<hull path="data/hulls/horn/m3/" name="Hornet " price="118725"/>
 
 		<hull path="data/hulls/vik/m0/" name="Viking" price="575"/>
-		<hull path="data/hulls/vik/m1/" name="Viking" price="900"/>
-		<hull path="data/hulls/vik/m2/" name="Viking" price="2700"/>
-		<hull path="data/hulls/vik/m3/" name="Viking " price="8100"/>
+		<hull path="data/hulls/vik/m1/" name="Viking" price="14475"/>
+		<hull path="data/hulls/vik/m2/" name="Viking" price="74925"/>
+		<hull path="data/hulls/vik/m3/" name="Viking " price="146700"/>
 
 		<hull path="data/hulls/mamont/m0/" name="Mammoth" price="375"/>
-		<hull path="data/hulls/mamont/m1/" name="Mammoth" price="1125"/>
-		<hull path="data/hulls/mamont/m2/" name="Mammoth" price="3400"/>
-		<hull path="data/hulls/mamont/m3/" name="Mammoth " price="10200"/>
+		<hull path="data/hulls/mamont/m1/" name="Mammoth" price="2400"/>
+		<hull path="data/hulls/mamont/m2/" name="Mammoth" price="57525"/>
+		<hull path="data/hulls/mamont/m3/" name="Mammoth " price="183150"/>
 
 
 		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="95000"/>
@@ -1229,54 +1229,54 @@
 	</profiles>
 	<turrets>
 		<turret path="data/turrets/smoky/m0/" name="Smoky" price="0"/>
-		<turret path="data/turrets/smoky/m1/" name="Smoky" price="15"/>
-		<turret path="data/turrets/smoky/m2/" name="Smoky" price="45"/>
-		<turret path="data/turrets/smoky/m3/" name="Smoky" price="150"/>
+		<turret path="data/turrets/smoky/m1/" name="Smoky" price="8250"/>
+		<turret path="data/turrets/smoky/m2/" name="Smoky" price="86100"/>
+		<turret path="data/turrets/smoky/m3/" name="Smoky" price="201450"/>
 		
 		<turret path="data/turrets/flamethrower/m0/" name="Firebird" price="112"/>
-		<turret path="data/turrets/flamethrower/m1/" name="Firebird" price="20"/>
-		<turret path="data/turrets/flamethrower/m2/" name="Firebird" price="60"/>
-		<turret path="data/turrets/flamethrower/m3/" name="Firebird" price="1000"/>
+		<turret path="data/turrets/flamethrower/m1/" name="Firebird" price="5325"/>
+		<turret path="data/turrets/flamethrower/m2/" name="Firebird" price="70950"/>
+		<turret path="data/turrets/flamethrower/m3/" name="Firebird" price="206250"/>
 		
 		<turret path="data/turrets/twins/m0/" name="Twins" price="112"/>
-		<turret path="data/turrets/twins/m1/" name="Twins" price="355"/>
-		<turret path="data/turrets/twins/m2/" name="Twins" price="678"/>
-		<turret path="data/turrets/twins/m3/" name="Twins " price="1000"/>
+		<turret path="data/turrets/twins/m1/" name="Twins" price="26325"/>
+		<turret path="data/turrets/twins/m2/" name="Twins" price="99450"/>
+		<turret path="data/turrets/twins/m3/" name="Twins " price="194250"/>
 		
 		<turret path="data/turrets/railgun/m0/" name="Railgun" price="225"/>
-		<turret path="data/turrets/railgun/m1/" name="Railgun" price="175"/>
-		<turret path="data/turrets/railgun/m2/" name="Railgun" price="550"/>
-		<turret path="data/turrets/railgun/m3/" name="Railgun " price="2500"/>
+		<turret path="data/turrets/railgun/m1/" name="Railgun" price="23550"/>
+		<turret path="data/turrets/railgun/m2/" name="Railgun" price="72075"/>
+		<turret path="data/turrets/railgun/m3/" name="Railgun " price="163725"/>
 
 		<turret path="data/turrets/isida/m0/" name="Isida" price="1325"/>
-		<turret path="data/turrets/isida/m1/" name="Isida" price="350"/>
-		<turret path="data/turrets/isida/m2/" name="Isida" price="900"/>
-		<turret path="data/turrets/isida/m3/" name="Isida " price="2250"/>
+		<turret path="data/turrets/isida/m1/" name="Isida" price="13950"/>
+		<turret path="data/turrets/isida/m2/" name="Isida" price="51000"/>
+		<turret path="data/turrets/isida/m3/" name="Isida " price="125175"/>
 
 		<turret path="data/turrets/thunder/m0/" name="Thunder" price="375"/>
-		<turret path="data/turrets/thunder/m1/" name="Thunder" price="750"/>
-		<turret path="data/turrets/thunder/m2/" name="Thunder" price="2250"/>
-		<turret path="data/turrets/thunder/m3/" name="Thunder " price="5600"/>
+		<turret path="data/turrets/thunder/m1/" name="Thunder" price="28950"/>
+		<turret path="data/turrets/thunder/m2/" name="Thunder" price="82875"/>
+		<turret path="data/turrets/thunder/m3/" name="Thunder " price="139650"/>
 
 		<turret path="data/turrets/freeze/m0/" name="Freeze" price="450"/>
-		<turret path="data/turrets/freeze/m1/" name="Freeze" price="750"/>
-		<turret path="data/turrets/freeze/m2/" name="Freeze" price="2250"/>
-		<turret path="data/turrets/freeze/m3/" name="Freeze " price="7000"/>
+		<turret path="data/turrets/freeze/m1/" name="Freeze" price="16950"/>
+		<turret path="data/turrets/freeze/m2/" name="Freeze" price="46050"/>
+		<turret path="data/turrets/freeze/m3/" name="Freeze " price="128625"/>
 
 		<turret path="data/turrets/ricochet/m0/" name="Ricochet" price="1425"/>
-		<turret path="data/turrets/ricochet/m1/" name="Ricochet" price="1000"/>
-		<turret path="data/turrets/ricochet/m2/" name="Ricochet" price="3000"/>
-		<turret path="data/turrets/ricochet/m3/" name="Ricochet " price="9000"/>
+		<turret path="data/turrets/ricochet/m1/" name="Ricochet" price="18225"/>
+		<turret path="data/turrets/ricochet/m2/" name="Ricochet" price="66900"/>
+		<turret path="data/turrets/ricochet/m3/" name="Ricochet " price="189075"/>
 
         <turret path="data/turrets/shaft/m0/" name="Shaft" price="1200"/>
-		<turret path="data/turrets/shaft/m1/" name="Shaft" price="1000"/>
-		<turret path="data/turrets/shaft/m2/" name="Shaft" price="3000"/>
-		<turret path="data/turrets/shaft/m3/" name="Shaft " price="9000"/>
+		<turret path="data/turrets/shaft/m1/" name="Shaft" price="17425"/>
+		<turret path="data/turrets/shaft/m2/" name="Shaft" price="79900"/>
+		<turret path="data/turrets/shaft/m3/" name="Shaft " price="165400"/>
 
 	    <turret path="data/turrets/terminator/m0/" name="Prototype Isida" price="89500"/>
-		<turret path="data/turrets/terminator/m1/" name="Prototype Isida" price="124700"/>
-		<turret path="data/turrets/terminator/m2/" name="Prototype Isida" price="224000"/>
-		<turret path="data/turrets/terminator/m3/" name="Prototype Isida" price="370400"/>
+		<turret path="data/turrets/terminator/m1/" name="Prototype Isida" price="234550"/>
+		<turret path="data/turrets/terminator/m2/" name="Prototype Isida" price="720975"/>
+		<turret path="data/turrets/terminator/m3/" name="Prototype Isida" price="963725"/>
 
 	    <turret path="data/turrets/vulkan/m0/" name="Snowman" price="2000"/>
 		<turret path="data/turrets/vulkan/m1/" name="Snowman" price="14525"/>
@@ -1284,12 +1284,12 @@
 		<turret path="data/turrets/vulkan/m3/" name="Snowman " price="370088"/>
 
 	    <turret path="data/turrets/striker/m0/" name="Ricochet Prototype" price="245000"/>
-		<turret path="data/turrets/striker/m1/" name="Ricochet Prototype" price="26890"/>
-		<turret path="data/turrets/striker/m2/" name="Ricochet Prototype" price="90788"/>
-		<turret path="data/turrets/striker/m3/" name="Ricochet Prototype " price="365743"/>
+		<turret path="data/turrets/striker/m1/" name="Ricochet Prototype" price="305000"/>
+		<turret path="data/turrets/striker/m2/" name="Ricochet Prototype" price="490788"/>
+		<turret path="data/turrets/striker/m3/" name="Ricochet Prototype " price="665743"/>
 
-		<turret path="data/turrets/gauss/m0/" name="Pumkin" price="3500"/>
-		<turret path="data/turrets/gauss/m1/" name="Pumkin" price="2600"/>
+		<turret path="data/turrets/gauss/m0/" name="Pumkin" price="13500"/>
+		<turret path="data/turrets/gauss/m1/" name="Pumkin" price="34000"/>
 		<turret path="data/turrets/gauss/m2/" name="Pumkin" price="90500"/>
 		<turret path="data/turrets/gauss/m3/" name="Pumkin" price="165743"/>
 
@@ -1299,9 +1299,9 @@
 		<turret path="data/turrets/gauss/prime1/" name="Smoky XT" price="1276532"/>
 		
 		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="98045"/>
-		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="932586"/>
-		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="1000000"/>
-		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="1345812"/>
+		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="122586"/>
+		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="190423"/>
+		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="345812"/>
 	</turrets>
 	<colormaps>
 		<colormap path="data/colormaps/Mishin870/" name="Devil" price="0"/>
@@ -1394,7 +1394,7 @@
 			<description name="Tester" text="data/colormaps/tester/preview.png;Mechanic Coating is based on principles developed by Nikola Tesla himself. Metal wrenches placed on carbon plates along a special grid of coordinates, under the influence of current, create a magnetic resonance field with properties not fully understood. The coating is installed on special test tanks, the pilots of which voluntarily participate in experiments, risking their lives for the benefit of future generations. The paint protects against: smokey - 25%. Twins - 25%. Flamethrower - 25%"/>
 			<description name="Green" text="data/colormaps/green/preview.png;More like a tribute to the traditions of classic tank building, this uncomplicated color, so beloved by designers around the world, has become a kind of standard for factory models. This legendary color is often returned true connoisseurs, having tried everything in the world."/>
 			<!--description name="Holiday" text="data/colormaps/holiday/preview.png;A unique and 'smart' paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."/-->
-			<description name="Holiday" text="data/colormaps/holiday/preview.png;A unique and 'smart' paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."/>
+			<description name="Holiday" text="data/colormaps/christmas/preview.png;A unique and 'smart' paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."/>
 			<description name="Red" text="data/colormaps/red/preview.png;Red is the color of rage and courage, and also has a natural practicality, allowing you to delicately hide enemy blood stains that inevitably appear on the hull, no matter how careful you are ."/>
 			<description name="Blue" text="data/colormaps/blue/preview.png;This coloration was kept on the official list as a memory of the failed Som amphibious tank project. As conceived by the designers, he was supposed to move along the beds of shallow rivers, and, thanks to the blue color, freely penetrate into the deep enemy rear, remaining unnoticed."/>
 			<description name="Black" text="data/colormaps/black/preview.png;This coloring has become the unspoken standard for sabotage tank divisions whose main task is to covertly penetrate enemy territory at night. In army circles, tanks from such elite divisions are enviously called black spots of death behind their backs."/>
@@ -1626,7 +1626,7 @@
 <image id="isidaHealEnd7" url="isida/3/heal_end.png"/>
 <image id="isidaDamageShaft7" url="isida/3/damage_shaft.png"/>
 <image id="isidaHealShaft7" url="isida/3/heal_shaft.png"/>
-<image id="box_gold" url="bonus/gold.jpg"/>
+<image id="box_gold" url="bonus/goldsnow.jpg"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
 <image id="box_med" url="bonus/med.jpg"/>
