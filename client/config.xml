@@ -1307,7 +1307,7 @@
 		<colormap path="data/colormaps/Mishin870/" name="Devil" price="0"/>
 		<colormap path="data/colormaps/tester/" name="Tester" price="0"/>
 		<colormap path="data/colormaps/green/" name="Green" price="0"/>
-		<colormap path="data/colormaps/holiday/" name="Holiday" price="0"/>
+		<colormap path="data/colormaps/christmas/" name="Holiday" price="0"/>
 		<colormap path="data/colormaps/red/" name="Red" price="75"/>
 		<colormap path="data/colormaps/blue/" name="Blue" price="75"/>
 		<colormap path="data/colormaps/black/" name="Black" price="75"/>
