@@ -1626,7 +1626,7 @@
 <image id="isidaHealEnd7" url="isida/3/heal_end.png"/>
 <image id="isidaDamageShaft7" url="isida/3/damage_shaft.png"/>
 <image id="isidaHealShaft7" url="isida/3/heal_shaft.png"/>
-<image id="box_gold" url="bonus/goldsnow.jpg"/>
+<image id="box_gold" url="bonus/gold.jpg"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
 <image id="box_med" url="bonus/med.jpg"/>
